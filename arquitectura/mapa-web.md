@@ -20,7 +20,7 @@
 ├─ Línies de negoci
 │  ├─ /languages/                  Valua Languages
 │  ├─ /attitude/                   Attitude
-│  ├─ /groups/   /i2eu/            Pàgina pròpia (decisió Gonçal); [PENDENT] contingut
+│  ├─ /groups/   /i2eu/            Pàgina pròpia prevista, EN STANDBY (sense text)
 │  └─ /tribes/                     Valua Tribes, línia nova
 ├─ Programes
 │  ├─ /viatges-fi-curs/
@@ -75,11 +75,11 @@ Resposta rebuda per l'usuari i enganxada a la sessió. L'usuari afegeix: **«és
 
 **Per revisar amb Gonçal (derivat de les decisions):**
 - **Les 4 pàgines de la paperera NO són còpies de Tribes** (rectifiquem): tres són còpies de la pàgina d'Attitude i una (id 14003) és un esborrany anterior de Tribes en castellà. Proposem no migrar-les com a pàgines; el text ES de Tribes es farà a partir de la versió publicada.
-- **Les 10 entrades de la paperera** són versions antigues o duplicades d'entrades ja publicades: proposem no migrar-les (duplicarien contingut).
-- **`Valua Services`:** **sisena línia de negoci** (Gonçal, 07/10/2026). Hi ha una pàgina en esborrany (24/09/2026) amb contingut real. `[PENDENT]` slug (`/services/`?) i relació amb la pàgina actual `/serveis/` («Serveis per a Grups»).
-- **Peu de pàgina:** Gonçal confirma que **es mantenen** «Política de Turisme Responsable» i «Reclamació Gencat». `[PENDENT]` no tenen pàgina a l'inventari: cal el text o l'enllaç.
-- **Àrea Client:** segons Gonçal, a WordPress no la fa servir ningú (a confirmar). Provisional: **no es porta al menú de la web nova**.
-- **Tours en esborrany:** 24 tenen contingut real (esborranys de 2019 i 2023, p. ex. Sicília, Viena, Atenes) i 5 són buits o de prova. Es migren com a esborrany fins que Gonçal en confirmi la publicació.
+- **Les 10 entrades de la paperera es deixen fora** (Gonçal, 07/10/2026).
+- **`Valua Services`:** sisena línia de negoci, i **és la mateixa pàgina que `/serveis/`** (Gonçal, 07/10/2026): no se'n crea una de nova. `[PENDENT]` quina redacció preval (text actual de `/serveis/` o esborrany de Valua Services).
+- **Peu de pàgina:** «Política de Turisme Responsable», «Reclamació Gencat» i «El nostre compromís» queden **en standby**: Gonçal passarà els textos. L'espai queda previst.
+- **Àrea Client:** plataforma **externa**; **no es crea ara**, però l'arquitectura deixa **lloc previst** al menú i a les rutes (p. ex. un enllaç a `/area-client/`) per si cal afegir-la.
+- **Tours i entrades en esborrany (24 + 18): STANDBY** (Gonçal, 07/10/2026): ni es publiquen ni es porten a la web nova per ara. Es conserva l'extracció a `_fuentes/xml_extra/`.
 - Els textos que parlen d'«inscripció online» (avals, serveis): `[PENDENT]` confirmar què es diu ara que la web no té flux d'inscripció ni compra.
 - La traducció a ES i EN de tots els tours i del blog és feina nova (l'ES actual té pocs tours).
 

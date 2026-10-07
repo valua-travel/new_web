@@ -541,7 +541,7 @@
     <loc>https://valuatravel.com/allotjament/residencia/</loc>
     <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/allotjament/residencia/"/>
   </url>
-  <!-- Decisio Goncal 07/10/2026: pagina propia. PENDENT: contingut i slugs ES/EN -->
+  <!-- STANDBY (Goncal 07/10/2026): pagina propia prevista, sense text. No publicar fins que hi hagi contingut -->
   <url>
     <loc>https://valuatravel.com/groups/</loc>
     <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/groups/"/>
@@ -560,7 +560,7 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/groups/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/groups/"/>
   </url>
-  <!-- Decisio Goncal 07/10/2026: pagina propia. PENDENT: contingut i slugs ES/EN -->
+  <!-- STANDBY (Goncal 07/10/2026): pagina propia prevista, sense text. No publicar fins que hi hagi contingut -->
   <url>
     <loc>https://valuatravel.com/i2eu/</loc>
     <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/i2eu/"/>

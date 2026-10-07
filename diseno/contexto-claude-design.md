@@ -1,42 +1,53 @@
 # Brief per a Claude Design — web nova de Valua Travel (ESBORRANY)
 
-*07/10/2026. Elaborat a partir de `CLAUDE.md`, `classificacio.xlsx`, `arquitectura/mapa-web.md` i els textos de `_fuentes/ca/`. Incorpora les decisions de Gonçal del 07/10/2026 (§0). **Falta l'OK final dels entregables.** Tot el text surt de la web actual. Res d'inventat: el que falta és `[PENDENT]`.*
+*07/10/2026. Elaborat a partir de `CLAUDE.md`, `classificacio.xlsx`, `arquitectura/mapa-web.md` i els textos de `_fuentes/ca/`. Incorpora les decisions i respostes de Gonçal del 07/10/2026 (§0). **Falta l'OK final dels entregables.** Tot el text surt de la web actual. Res d'inventat: el que falta és `[PENDENT]`.*
 
 ## 0. Decisions de Gonçal (07/10/2026) — ja resoltes
+**Primera tanda**
 1. **És una web informativa.** No es pot comprar, pagar ni triar/reservar en línia.
 2. **Tours:** només **fitxa informativa** amb formulari «Demana informació». Sense reserva.
 3. **Durades:** **una sola fitxa per destí amb selector de durada** (p. ex. Berguedà 2/3/4/5 dies = una fitxa).
-4. **Valua Groups i I2EU:** **pàgina pròpia** cadascuna. `[PENDENT]` no hi ha text original: l'ha d'aportar Gonçal; no s'ha d'inventar.
-5. **Valua Tribes:** **línia nova** (existeix `/tribes/` en català).
-6. **Es migra tot:** esborranys, paperera i els 52 tours antics.
-7. **Idiomes:** català, castellà i anglès. Els tours i la resta de pàgines han d'existir en els tres.
+4. **Valua Groups i I2EU:** pàgina pròpia cadascuna, però **en STANDBY** (no hi ha text; no s'han de dissenyar ara ni s'ha d'inventar res).
+5. **Valua Tribes:** línia nova (existeix `/tribes/` en català).
+6. **Idiomes:** català, castellà i anglès. Els tours i la resta de pàgines han d'existir en els tres.
 
-Encara oberts (no bloquegen l'estructura): xifres contradictòries (§2), to de veu i identitat visual (§3, §8), textos de Groups, I2EU, Tribes en ES/EN.
+**Segona tanda (respostes a les preguntes concretes)**
+7. **Valua Services** és la **sisena línia**, i **és la mateixa pàgina que `/serveis/`** («Serveis per a Grups»): no n'hi ha dues.
+8. **Xifres confirmades:** més de **20 anys** d'experiència; més de **30.000 persones l'any**; equip de **20 persones** repartides en equips; les xifres de Valua Services (5.500 proveïdors, +3.000 bitllets d'avió l'any, 230 grups, 176 empreses de transport) són **actuals**.
+9. **Esborranys de WordPress (24 tours i 18 entrades): STANDBY.** No es publiquen ni es porten a la web nova per ara. Les **10 entrades de la paperera es deixen fora.**
+10. **Àrea Client:** és una plataforma **externa**; de moment **no es crea**, però **l'arquitectura ha de quedar preparada** per si cal afegir-la.
+11. **Peu de pàgina** (Política de Turisme Responsable, Reclamació Gencat, «El nostre compromís»): **STANDBY**; Gonçal passarà els textos més endavant. L'espai ha de quedar previst.
+12. **To i estil:** to **proper (tutejant)**; l'estil (colors, tipografies…) **ha de ser el mateix de la web actual de WordPress** (§8).
+
 Els textos en anglès són esborranys fets amb IA i els legals els revisa un jurista: no són contingut final.
 
 ## 1. Qui és Valua Travel
 Agència de viatges amb seu a Mataró (Barcelona) i delegació a València, especialitzada en **viatges per a grups escolars**, estades lingüístiques i viatges d'aventura. Públic: **centres educatius, professorat i famílies** (i, en algunes línies, esportistes, organitzadors i adults en grup).
 
-Línies de negoci: **Valua Groups, Valua Languages, Attitude, I2EU, Valua Tribes** (línia nova: viatges per a col·lectius, grups o comunitats que comparteixen una passió) **i Valua Services** (sisena línia, confirmat per Gonçal 07/10/2026). Cadascuna tindrà pàgina pròpia. Avui només tenen pàgina Languages, Attitude i Tribes (`/tribes/`, publicada el 02/10/2026). `[PENDENT]` Valua Groups i I2EU: no hi ha text original; l'ha d'aportar Gonçal i no s'ha d'inventar. **Valua Services** té una pàgina en esborrany (serveis turístics per a grups i empreses: bitllets d'avió, allotjaments, transport); `[PENDENT]` slug i relació amb `/serveis/`.
+Línies de negoci: **Valua Groups, Valua Languages, Attitude, I2EU, Valua Tribes** (línia nova: viatges per a col·lectius, grups o comunitats que comparteixen una passió) **i Valua Services** (sisena línia, que correspon a la pàgina actual `/serveis/`). Avui tenen pàgina Languages, Attitude, Tribes i Serveis. **Groups i I2EU** tindran pàgina pròpia però estan **en standby**: no hi ha text original i no s'ha d'inventar.
 
-## 2. Valors, xifres i avals (tal com diu la web actual)
+## 2. Valors, xifres i avals
 Valors que apareixen a la web: **Proximitat, Innovació, Rigor** (lemes: «Familiars, experts, professionals», «T'ho fem fàcil»).
 
 Avals que es repeteixen a la web actual: assistència 24/7 durant el viatge; resposta en 24h; inscripció online de tots els passatgers; contractació directa a proveïdors; treball amb les principals asseguradores europees; compliment de la llei de protecció de dades; dossier extens del viatge; preus ajustats; pressupost en 24h. Estades lingüístiques: avalades per Quality English.
 
-**Xifres que es contradiuen a la web actual** `[PENDENT]` (no s'han de posar al disseny fins que Gonçal les aclareixi):
+**Xifres confirmades per Gonçal (07/10/2026)**
 
-| Dada | Pàgines | Valors que apareixen |
-|---|---|---|
-| Anys d'experiència | Qui som / Serveis | «més de 20 anys» / «més de 15 anys» |
-| Alumnes o passatgers gestionats | Qui som / Serveis | «més de 80.000 alumnes» / «més de 50.000 passatgers» |
-| Equip | Languages / Serveis / Qui som | «21 professionals» / «10 professionals» / 19 fitxes de persona |
-| Altres | Serveis / Valua Services (esborrany) | 7000 passatgers, 98 % satisfets, ~5.500 proveïdors, +3.000 bitllets d'avió l'any, 230 grups, 176 empreses de transport |
-| Comptadors de la portada | Inici / Qui som | El text original només conserva «0Mil», «0 %»: s'animen amb JS i els valors es van perdre en l'extracció |
+| Dada | Valor vigent |
+|---|---|
+| Anys d'experiència | **Més de 20 anys** |
+| Persones que viatgen | **Més de 30.000 l'any** |
+| Equip | **20 persones**, repartides en diferents equips |
+| Proveïdors | 5.500 |
+| Bitllets d'avió | +3.000 l'any |
+| Grups | 230 |
+| Empreses de transport | 176 |
+
+Aquestes xifres **substitueixen** les de la web actual que es contradeien (15 anys, 50.000 / 80.000, 10 / 21 professionals). `[PENDENT]` Altres xifres que **no** estan confirmades i no s'han d'usar: 7.000 passatgers, 98 % de satisfets (Serveis) i el brochure de Valua Tribes (+20.000 viatgers l'any, 350 grups l'any, 4,7★ en +300 ressenyes de Google, 18 persones) que no coincideix amb les anteriors. Els comptadors animats de la portada només conservaven «0Mil», «0 %»: cal omplir-los amb les xifres confirmades.
 
 ## 3. Tono i personalitat de marca
 Segons el **Manual d'Identitat de Marca** (Nóctope, juliol 2017): el logotip busca transmetre «aventura i descobriment». Els conceptes que defineixen la marca són vuit adjectius: **Apassionats, Propers, Compromesos, Curiosos, Vitals, Racionals, Oberts i Resolutius.**
-Observat als textos actuals de la web: tracte proper i directe (tu), frases curtes, lemes tipus «T'ho fem fàcil», «Nosaltres gestionem, tu ensenyes». `[PENDENT]` Gonçal ha de confirmar que el to continua sent aquest.
+Observat als textos actuals de la web: tracte proper i directe (tu), frases curtes, lemes tipus «T'ho fem fàcil», «Nosaltres gestionem, tu ensenyes». **Confirmat per Gonçal (07/10/2026):** to proper, tutejant.
 
 ## 4. Objectius del visitant
 Accions principals que la web actual ja ofereix:
@@ -69,15 +80,15 @@ Estructura completa a `arquitectura/mapa-web.md`. Resum:
 | **Blog** | SEO i confiança | 32 entrades CA; `[PENDENT]` abast ES/EN |
 | **Contacte** | Convertir | Telèfon, correus, adreça a Mataró, delegació de València, formulari |
 | **Legals** | Obligació | Avís legal, condicions de viatge, cookies, confirmació d'inscripció (noindex) |
-| **Valua Groups** | Pàgina pròpia | `[PENDENT]` text de Gonçal |
-| **Valua Services** | Sisena línia: serveis turístics independents per a grups i empreses | Esborrany a `_fuentes/xml_extra/pagines_esborrany_paperera/`: bitllets d'avió, allotjaments, transport, trasllats; botó «Demana pressupost». `[PENDENT]` slug i relació amb `/serveis/` |
-| **I2EU** | Pàgina pròpia | `[PENDENT]` text de Gonçal |
+| **Valua Groups** `STANDBY` | Pàgina pròpia | Sense text original: no es dissenya ara |
+| **Valua Services = Serveis** | Serveis turístics per a grups: estudiants i adults (és la pàgina `/serveis/`) | Text actual de `/serveis/` més l'esborrany de Valua Services (`_fuentes/xml_extra/pagines_esborrany_paperera/`): bitllets d'avió, allotjaments, transport, trasllats; botó «Demana pressupost». `[PENDENT]` quina de les dues redaccions preval |
+| **I2EU** `STANDBY` | Pàgina pròpia | Sense text original: no es dissenya ara (hi ha material antic de 2015–2017 a `TI/WEB/I2EU/` per a quan es reactivi) |
 | **Valua Tribes** | Línia de viatges per a col·lectius, grups o comunitats que comparteixen una passió: captar creadors, clubs, experts, associacions i comunitats | Text a `_fuentes/ca/Pagines__tribes.md`: «Viatges creats per compartir», 9 passos de la idea a l'experiència (comunitat, disseny, gestió integral, personalització, suport, legalitat, inscripcions i pagaments, experiència, benefici), formulari amb nom, email, telèfon i missatge. Només en català |
 
-### Elements globals a decidir `[PENDENT]`
+### Elements globals
 Apareixen a la web actual a totes les pàgines (detall a `_fuentes/ca/Pagines__tribes.md`):
-- **Menú:** Nosaltres, Blog, Serveis, Any escolar, Programes d'estiu, Contacte, **Àrea client**, selector d'idioma. L'Àrea Client era una plataforma d'accés online al viatge (hi ha un tutorial en esborrany). **Gonçal creu que ningú l'usa a WordPress:** provisionalment no es porta al menú nou `[PENDENT]` confirmar.
-- **Peu:** «El nostre compromís» (textos de subvenció FSE i LABORA), «Grup Valua» (només Travel, Languages, Attitude i Services: sense Groups, I2EU ni Tribes), dades de contacte i enllaços legals, entre ells **Política de Turisme Responsable** i **Reclamació Gencat**: **Gonçal confirma que es mantenen**, però no tenen pàgina a l'inventari `[PENDENT]` text o enllaç. Copyright de 2024.
+- **Menú:** Nosaltres, Blog, Serveis, Any escolar, Programes d'estiu, Contacte, selector d'idioma. **Àrea Client:** és una plataforma **externa**; no es crea ara, però el menú i les rutes han de **deixar un lloc previst** per a un enllaç futur (decisió de Gonçal).
+- **Peu:** dades de contacte i enllaços legals. En **standby** (Gonçal passarà els textos): «Política de Turisme Responsable», «Reclamació Gencat» i «El nostre compromís» (subvencions FSE i LABORA). L'espai ha de quedar previst. «Grup Valua» a la web actual només llista Travel, Languages, Attitude i Services (sense Groups, I2EU ni Tribes) `[PENDENT]`. Copyright de 2024: actualitzar.
 
 ## 6. Idiomes
 Català (per defecte, a l'arrel), castellà (`/es/`) i anglès (`/en/`): **confirmat per Gonçal**. El disseny ha de preveure el selector d'idioma i textos més llargs en castellà i anglès. Tours, blog i pàgines noves han de poder existir en els tres.
@@ -89,7 +100,21 @@ Català (per defecte, a l'arrel), castellà (`/es/`) i anglès (`/en/`): **confi
 - **Sense dependre de Revolution Slider, WPML ni Tourmaster**: són plugins de la web actual (alguns desactualitzats) que no s'han de portar. `[PENDENT]` confirmar-ho amb Gonçal.
 - Públic mixt: centres educatius, professorat i famílies (segons `CLAUDE.md`).
 
-## 8. Identitat visual (del Manual d'Identitat de Marca, 2017)
+## 8. Identitat visual
+**Decisió de Gonçal (07/10/2026): l'estil de la web nova (colors, tipografies, etc.) ha de ser el mateix que el de la web actual de WordPress, i aquesta és també la referència d'inspiració (no calen altres webs).** El manual de 2017 és referència secundària. Aquests valors surten del CSS de la web en producció (tema TravelTour amb personalització de Valua):
+
+| Element | Web actual |
+|---|---|
+| Tipografia principal (text, menú, formularis) | **Montserrat** |
+| Tipografia de títols en blocs de la portada | **Oswald** |
+| Altres | Roboto (sliders), Poppins (text del peu) |
+| Mida de text base | 14 px |
+| Color d'accent principal | `#D93D67` (rosa/vermell); `#C1495C` a les cintes dels tours |
+| Blau d'enllaços i elements | `#468AE7` / `#4F99E4` / `#5990E0` |
+| Grisos de text | `#565556`, `#424242`, `#333333`, `#3A3A3A`; fons clar `#F3F3F3`; blanc i negre |
+
+`[PENDENT]` Gonçal ha de confirmar que aquesta paleta i aquestes fonts són les que vol mantenir. **Els colors del manual de 2017 (verd, blau, vermell, vermell taronja, llima) i la tipografia Calibri no coincideixen amb la web actual**: s'han de mantenir només per als logotips de cada línia, no com a paleta de la web, tret que Gonçal digui el contrari.
+
 Font: `LOGOS & SEGELL/Manual_Identidad_LOGOS.pdf` (versió completa, amb colors) i `MKG & COMUNICACIÓ/ESTRATEGIA DE MARCA/ESTRATEGIA DE MARCA/VALUA_Manual_Identidad.pdf` (versió una mica anterior, sense especificacions de color). **Són de juliol de 2017: cal confirmar que continuen vigents.**
 
 **Logotip**
@@ -122,22 +147,26 @@ Colors principals de la marca: **blanc i negre**. Cada sub-marca té una parella
 - El manual és de 2017 i no inclou Services, Tribes, I2EU ni els logos del 2024 (`VALUA_Logo_1.png`, `VALUA_Logo_2.png`). A `VALUA TRIBES/` hi ha una carpeta d'identitat de marca (IA) i logotip propis.
 - El manual dóna l'adreça antiga (Carrer Sant Josep 4); la web actual diu Muralla de Sant Llorenç 37.
 - Per a Claude Design cal el logotip **en vectorial (SVG/PDF) o PNG gran amb transparència**; hi ha EPS i PNG petits (el de GitHub, `valua-travel-logo.jpg`, és només de 3,7 KB). `[PENDENT]` demanar a Màrqueting un SVG.
-- `[PENDENT]` Referències de disseny que li agraden o no a Gonçal.
+- **Referència de disseny: la pròpia web actual de WordPress** (valuatravel.com). No calen altres webs d'inspiració (Gonçal, 07/10/2026): la web nova s'ha d'inspirar en l'estructura, l'estil i el to de l'actual, millorant-ne la usabilitat i el rendiment.
 
 ## 9. Pendents (resum)
-**Resolt el 07/10/2026:** reserva de tours (no), durades (selector), Groups/I2EU (pàgina pròpia), Tribes (línia nova), què es migra (tot), idiomes (CA/ES/EN).
+**Resolt el 07/10/2026 (dues tandes):** reserva de tours (no), durades (selector), Tribes i Services (línies), Services = `/serveis/`, idiomes (CA/ES/EN), xifres, esborranys (standby), paperera (fora), Àrea Client (externa, arquitectura preparada), to (proper) i estil (el de la web actual).
 
-**Pendent de Gonçal**
-1. Text de Valua Groups i I2EU, i de Tribes en ES/EN.
-2. Xifres contradictòries (§2).
-3. To de veu (§3) i identitat visual (§8).
-4. Què es diu de la «inscripció online» ara que la web és només informativa; confirmar que l'Àrea Client no s'usa.
-5. Valua Services: slug i relació amb `/serveis/`. Text o enllaç de Turisme Responsable i Reclamació Gencat. (Les 4 pàgines de paperera «Valua Tribes» són còpies d'Attitude i un esborrany ES antic de Tribes: no es migren.)
+**En STANDBY (a l'espera de textos de Gonçal)**
+1. Pàgines de **Valua Groups** i **I2EU**.
+2. Peu de pàgina: Política de Turisme Responsable, Reclamació Gencat, «El nostre compromís».
+3. **24 tours i 18 entrades** en esborrany.
+
+**Pendent de confirmar**
+4. Que la paleta i les fonts de la web actual (§8) són les que Gonçal vol mantenir.
+5. Quina redacció preval a `/serveis/`: el text actual o l'esborrany de Valua Services.
+6. ~~Referències de disseny~~: **no calen**; la referència és la web actual de WordPress.
+7. Un logotip en vectorial (SVG/PDF) o PNG gran amb transparència; el de GitHub és un JPG de 3,7 KB.
+8. Text de Tribes en ES i EN, amb les errates de l'original corregides.
 
 **Feina nostra (sense decisions)**
-6. **Fet:** extracció de l'XML a `_fuentes/xml_extra/` (24 tours en esborrany amb contingut, 18 entrades en esborrany, 10 de paperera, pàgines). Falta que Gonçal confirmi quins es publiquen.
-7. Passar les versions per durada a dades del selector (les durades dels 13 tours que faltaven **ja s'han trobat** a `tours_dades_tourmaster.csv`); Praga–Berlín (dues versions).
-8. Traduccions ES i EN de tots els tours i del blog; revisió dels esborranys EN; revisió legal pel jurista.
-9. Alt de les imatges i quines es reutilitzen.
-10. Meta descripcions (156 pàgines no en tenen) i dades de Search Console per saber quines pàgines porten tràfic.
-11. Errates dels textos originals (p. ex. Tribes: «¿Vols saber més?», «y remuneració», «Seguretat I legalitat»).
+9. Passar les versions per durada a dades del selector de tours.
+10. Traduccions ES i EN de tours i blog; revisió dels esborranys EN; revisió legal pel jurista.
+11. Alt de les imatges i quines es reutilitzen.
+12. Meta descripcions (156 pàgines no en tenen) i dades de Search Console per saber quines pàgines porten tràfic.
+13. Omplir els comptadors de la portada amb les xifres confirmades (§2).

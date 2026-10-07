@@ -6,12 +6,12 @@ Context del projecte per a Claude Code. Font de veritat: `valua-web/documentaci�
 Agència de viatges especialitzada en **viatges per a grups escolars**, estades lingüístiques i viatges d'aventura.
 
 ## Les sis línies de negoci
-1. **Valua Groups** (pàgina pròpia: decisió de Gonçal 07/10/2026; text pendent)
+1. **Valua Groups** (pàgina pròpia prevista, **en STANDBY**: no hi ha text)
 2. **Valua Languages**
 3. **Attitude**
-4. **I2EU** (pàgina pròpia; text pendent)
+4. **I2EU** (pàgina pròpia prevista, **en STANDBY**: no hi ha text)
 5. **Valua Tribes** (línia nova, 07/10/2026): viatges per a col·lectius, grups o comunitats que comparteixen una passió. Ja existeix `/tribes/` en català
-6. **Valua Services** (sisena línia, confirmat per Gonçal 07/10/2026): serveis turístics per a grups i empreses. Hi ha una pàgina en esborrany; el peu de la web ja la llista
+6. **Valua Services** (sisena línia, Gonçal 07/10/2026): és la mateixa pàgina que `/serveis/` (serveis turístics per a grups i empreses)
 
 No descriguis què fa cada línia amb paraules pròpies: usa només el que diu la web actual o el que aprovi Gonçal.
 
@@ -31,7 +31,11 @@ La web nova serà en **català, castellà i anglès**.
 ## Decisions de Gonçal (07/10/2026)
 - **Web informativa:** no es pot comprar, pagar ni reservar. Tours amb només fitxa informativa + formulari.
 - **Tours:** una fitxa per destí amb selector de durada.
-- **Es migra tot:** esborranys, paperera i 52 tours antics.
+- **Esborranys (24 tours, 18 entrades): STANDBY.** Entrades de la paperera: fora.
+- **Àrea Client:** plataforma externa; no es crea ara, però l'arquitectura deixa lloc previst.
+- **Peu de pàgina** (Turisme Responsable, Reclamació Gencat, «El nostre compromís»): standby; Gonçal passarà els textos.
+- **Xifres vigents:** +20 anys, +30.000 persones l'any, 20 persones d'equip, 5.500 proveïdors, +3.000 bitllets, 230 grups, 176 empreses de transport.
+- **To i estil:** to proper (tutejant); l'estil visual (colors, tipografies) ha de ser el de la web actual de WordPress. La web actual és també la referència d'inspiració: no calen webs de referència externes.
 
 ## Normes de treball
 - **No s'esborra ni es mou res a SharePoint.** Mai, sense excepcions.
