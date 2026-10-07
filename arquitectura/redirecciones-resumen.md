@@ -3,19 +3,19 @@
 Fitxer de dades: `redirecciones.csv` (separador `;`, UTF-8). **Proposta pendent de revisió.** Encara no hi ha dades de Search Console.
 
 ## Què conté
-213 regles: 209 redireccions 301 + 4 respostes 410 (pàgines de prova/ocultes).
+220 regles: 216 redireccions 301 + 4 respostes 410 (pàgines de prova/ocultes).
 
 | Confiança | Regles | Què vol dir |
 |---|---|---|
 | alta | 136 | Regla mecànica (slug renombrat, entrada → `/blog/`, tour → fitxa única) |
-| mitjana | 59 | Raonable, però depèn d'una decisió (p. ex. arxius → llistat del blog; tours ES aparellats pel nom) |
+| mitjana | 66 | Raonable, però depèn d'una decisió (p. ex. arxius → llistat del blog; tours ES aparellats pel nom) |
 | baixa | 18 | Cal revisar abans d'aplicar (veure sota) |
 
-Origen: URLs de l'inventari (271) i les 28 regles que ja tenia el plugin Redirection. 66 URLs no canvien i **no necessiten regla**; 10 ja eren 404.
+Origen: URLs de l'inventari (271) i les 28 regles que ja tenia el plugin Redirection. 68 URLs no canvien i **no necessiten regla**; 10 ja eren 404.
 
 ## Efecte de les decisions de Gonçal
 - **Tours: fitxa única per destí amb selector de durada.** Les URLs per durada (`/tour/bergueda-2/`, `-3/`, `-4/`…) acaben totes a `/tour/bergueda/`. Queden **53 fitxes úniques**.
-- **Tours en ES:** els 15 `/es/tour/...` ja no van a un llistat provisional: van a `/es/tour/{destí}/` (aparellats pel nom).
+- **Tours en ES:** els 15 `/es/tour/...` ja no van a un llistat provisional: van a `/es/tour/{destí}/` (aparellats pel nom). Hi ha a més **7 tours ES publicats que el rastreig no va veure** (no enllaçats; trobats a l'XML) que també tenen regla, i un més (`/es/tour/canada-toronto/`) que ja és la fitxa única i no canvia.
 - **Idiomes CA/ES/EN confirmats**, i es migra tot (esborranys, paperera, 52 tours antics). Aquests últims **no eren públics**, per tant no tenen URL antiga i no necessiten redirecció: només s'han d'afegir al sitemap quan se'n treguin de l'XML.
 
 ## Criteris

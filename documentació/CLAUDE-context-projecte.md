@@ -37,7 +37,7 @@ La web nova serà en **català, castellà i anglès**.
 - **No s'esborra ni es mou res a SharePoint.** Mai, sense excepcions.
 - **No es guarden DNI ni dades personals** al projecte. No es demanen ni es comparteixen contrasenyes.
 - Segueix el full de ruta fase a fase; als punts de parada cal l'**OK escrit de Gonçal**.
-- Codi a `valua-web/`, en la branca `xinhao`. Cap push ni merge a `main` sense que l'equip ho decideixi. Cal correu d'empresa abans de qualsevol commit.
+- Codi a `valua-web/`. Els fitxers es pugen **a mà a `main`** amb el compte de l'empresa (decisió de l'usuari, 07/10/2026). No es fan commits ni push des de Claude Code i la branca local `xinhao` ja no es fa servir.
 - `valua-web/_fuentes/` i les còpies de seguretat **no van mai a GitHub**.
 - Repo remot: `valua-travel/new_web`.
 - L'usuari té poca experiència amb WordPress: dona instruccions clic a clic.

@@ -64,151 +64,158 @@
 63;/es/tour/cerdana-3/;/es/tour/cerdanya/;301;Tour ES -> fitxa unica ES (amb selector de durada);mitjana;lista;inventari
 64;/es/tour/cerdana/;/es/tour/cerdanya/;301;Tour ES -> fitxa unica ES (amb selector de durada);mitjana;lista;inventari
 65;/es/tour/cerdanya-bergueda-2/;/es/tour/cerdanya-bergueda/;301;Tour ES -> fitxa unica ES (amb selector de durada);mitjana;lista;inventari
-66;/es/tour/font-romeu-2/;/es/tour/font-romeu/;301;Tour ES -> fitxa unica ES (amb selector de durada);mitjana;lista;inventari
-67;/es/tour/inglaterra-programa-junior-valencia-broadstairs-11-17-anos/;/es/tour/anglaterra-programa-junior-broadstairs/;301;Tour ES -> fitxa unica ES;baixa;REVISAR: el nom diu Valencia-Broadstairs, confirmar que es el mateix programa;inventari
-68;/es/tour/masella-2/;/es/tour/masella/;301;Tour ES -> fitxa unica ES (amb selector de durada);mitjana;lista;inventari
-69;/es/tour/puigcerda-2-2/;/es/tour/puigcerda/;301;Tour ES -> fitxa unica ES (amb selector de durada);mitjana;lista;inventari
-70;/es/tour/puigcerda-3-2/;/es/tour/puigcerda/;301;Tour ES -> fitxa unica ES (amb selector de durada);mitjana;lista;inventari
-71;/es/tour/puigcerda-4-2/;/es/tour/puigcerda/;301;Tour ES -> fitxa unica ES (amb selector de durada);mitjana;lista;inventari
-72;/es/tour/puigcerda-esquiada-escolar-2/;/es/tour/puigcerda-esquiada-escolar/;301;Tour ES -> fitxa unica ES (amb selector de durada);mitjana;lista;inventari
-73;/es/valua-attitude-bajo-la-lupa-de-ucla-anderson-quien-confirma-el-analisis-y-quien-nos-impulsa/;/es/blog/valua-attitude-bajo-la-lupa-de-ucla-anderson-quien-confirma-el-analisis-y-quien-nos-impulsa/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
-74;/es/viajes-escolares-a-cataluna-por-que-no-podemos-dejar-que-desaparezcan/;/es/blog/viajes-escolares-a-cataluna-por-que-no-podemos-dejar-que-desaparezcan/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
-75;/escoles-confien-en-valua-travel/;/blog/escoles-confien-en-valua-travel/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
-76;/eta-regne-unit/;/blog/eta-regne-unit/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
-77;/exit-sorteig-fi-de-curs/;/blog/exit-sorteig-fi-de-curs/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
-78;/groups/contacte/;/contacte/;301;Slug renombrat o duplicat;alta;lista;inventari
-79;/groups/setmana-blanca/;/setmana-blanca/;301;Slug renombrat o duplicat;alta;lista;inventari
-80;/groups/setmana-blava/;/setmana-blava/;301;Slug renombrat o duplicat;alta;lista;inventari
-81;/groups/setmana-verda/;/setmana-verda/;301;Slug renombrat o duplicat;alta;lista;inventari
-82;/inteligencia-artificial-viatge-escolar/;/blog/inteligencia-artificial-viatge-escolar/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
-83;/languages/avis_legal/;/avis-legal/;301;Slug renombrat o duplicat;alta;lista;inventari
-84;/les-12-apps-que-tajudaran-a-recorrer-el-mon/;/blog/les-12-apps-que-tajudaran-a-recorrer-el-mon/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
-85;/maleta-perduda-al-viatge-de-final-de-curs/;/blog/maleta-perduda-al-viatge-de-final-de-curs/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
-86;/necessito-visat-per-viatjar/;/blog/necessito-visat-per-viatjar/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
-87;/organitzar-el-viatge-escolar/;/blog/organitzar-el-viatge-escolar/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
-88;/passaports-del-mon-a-la-teva-butxaca/;/blog/passaports-del-mon-a-la-teva-butxaca/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
-89;/perdua-documentacio-estranger/;/blog/perdua-documentacio-estranger/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
-90;/personnel/albert-pimas/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
-91;/personnel/arnau-garcia/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
-92;/personnel/beatriz-bosgos/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
-93;/personnel/cristina-sanchez/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
-94;/personnel/emliano-issaly/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
-95;/personnel/eva-navarro/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
-96;/personnel/francesc-palahi/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
-97;/personnel/goncal-portas/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
-98;/personnel/ivan-fernandez/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
-99;/personnel/lorena-font/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
-100;/personnel/marc-abella/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
-101;/personnel/maria-merce/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
-102;/personnel/mireia-fluvia/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
-103;/personnel/mireia-rivero/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
-104;/personnel/paola-baldino/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
-105;/personnel/pep-mas/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
-106;/personnel/sonia-estevez/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
-107;/personnel/vanessa-garcia/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
-108;/personnel/xavier-cata/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
-109;/politica-de-cookies-ue/;/politica-de-cookies/;301;Slug renombrat o duplicat;alta;lista;inventari
-110;/quina-documentacio-necessito-per-viatjar/;/blog/quina-documentacio-necessito-per-viatjar/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
-111;/search-tours/;/tours/;301;Slug renombrat o duplicat;alta;lista;inventari
-112;/services/;/serveis/;301;Slug renombrat o duplicat;alta;lista;inventari
-113;/services/avis_legal/;/avis-legal/;301;Slug renombrat o duplicat;alta;lista;inventari
-114;/significat-colors-passaports/;/blog/significat-colors-passaports/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
-115;/tag/abans-del-viatge/;/blog/;301;Arxiu automatic (categoria/etiqueta/autor/data/paginacio) -> llistat del blog (filtres per decidir);mitjana;lista;inventari
-116;/tag/curiositats/;/blog/;301;Arxiu automatic (categoria/etiqueta/autor/data/paginacio) -> llistat del blog (filtres per decidir);mitjana;lista;inventari
-117;/tag/documentacio/;/blog/;301;Arxiu automatic (categoria/etiqueta/autor/data/paginacio) -> llistat del blog (filtres per decidir);mitjana;lista;inventari
-118;/tag/durant-el-viatge/;/blog/;301;Arxiu automatic (categoria/etiqueta/autor/data/paginacio) -> llistat del blog (filtres per decidir);mitjana;lista;inventari
-119;/tag/equipatge/;/blog/;301;Arxiu automatic (categoria/etiqueta/autor/data/paginacio) -> llistat del blog (filtres per decidir);mitjana;lista;inventari
-120;/tag/financament/;/blog/;301;Arxiu automatic (categoria/etiqueta/autor/data/paginacio) -> llistat del blog (filtres per decidir);mitjana;lista;inventari
-121;/tag/sortides-escolars/;/blog/;301;Arxiu automatic (categoria/etiqueta/autor/data/paginacio) -> llistat del blog (filtres per decidir);mitjana;lista;inventari
-122;/tag/transport-public/;/blog/;301;Arxiu automatic (categoria/etiqueta/autor/data/paginacio) -> llistat del blog (filtres per decidir);mitjana;lista;inventari
-123;/tag/turisme-sostenible/;/blog/;301;Arxiu automatic (categoria/etiqueta/autor/data/paginacio) -> llistat del blog (filtres per decidir);mitjana;lista;inventari
-124;/targeta-sanitaria-viatges-europa/;/blog/targeta-sanitaria-viatges-europa/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
-125;/tour-category/valua-groups-ca/;/tours/;301;Arxiu de tour -> pagina del programa;mitjana;lista;inventari
-126;/tour-category/valua-languages-ca/;/languages/;301;Arxiu de tour -> pagina del programa;mitjana;lista;inventari
-127;/tour-tag/setmana-blanca-ca/;/setmana-blanca/;301;Arxiu de tour -> pagina del programa;mitjana;lista;inventari
-128;/tour-tag/setmana-blava-ca/;/setmana-blava/;301;Arxiu de tour -> pagina del programa;mitjana;lista;inventari
-129;/tour-tag/setmana-verda-ca/;/setmana-verda/;301;Arxiu de tour -> pagina del programa;mitjana;lista;inventari
-130;/tour-tag/summer-camps-ca/;/summer-camps/;301;Arxiu de tour -> pagina del programa;mitjana;lista;inventari
-131;/tour/aa-grecia-ok/;;410;Pagina de prova (no es migra);alta;lista;inventari
-132;/tour/amsterdam5dies/;/tour/amsterdam/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-133;/tour/andalusia-3/;/tour/andalusia/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-134;/tour/andorra6d/;/tour/andorra/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-135;/tour/asturies5d/;/tour/asturies/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-136;/tour/bergueda-2/;/tour/bergueda/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-137;/tour/bergueda-3/;/tour/bergueda/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-138;/tour/bergueda-4/;/tour/bergueda/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-139;/tour/berlin-4/;/tour/berlin/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-140;/tour/bolonya-roma-2/;/tour/bolonya-roma/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-141;/tour/brusselas5d/;/tour/brusselas/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-142;/tour/canada-toronto-2/;/tour/canada-toronto/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-143;/tour/cantabria-3/;/tour/cantabria/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-144;/tour/cerdanya-2/;/tour/cerdanya/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-145;/tour/cerdanya-3/;/tour/cerdanya/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-146;/tour/copy-of-grecia-ok-2/;;410;Pagina de prova (no es migra);alta;lista;inventari
-147;/tour/copy-of-grecia-ok/;;410;Pagina de prova (no es migra);alta;lista;inventari
-148;/tour/dublin-9/;/tour/dublin/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-149;/tour/dubrovnik5d/;/tour/dubrovnik/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-150;/tour/edimburg-2/;/tour/edimburg/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-151;/tour/euskadi-2/;/tour/euskadi/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-152;/tour/florencia-roma-5/;/tour/florencia-roma/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-153;/tour/florencia-venecia-2/;/tour/florencia-venecia/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-154;/tour/lisboa-3/;/tour/lisboa/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-155;/tour/londres-2/;/tour/londres/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-156;/tour/madrid-11/;/tour/madrid/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-157;/tour/malgrat-de-mar-2-2/;/tour/malgrat-de-mar/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-158;/tour/malgrat-de-mar-2/;/tour/malgrat-de-mar/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-159;/tour/malgrat-de-mar-3/;/tour/malgrat-de-mar/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-160;/tour/malgrat-de-mar-4/;/tour/malgrat-de-mar/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-161;/tour/mallorca-2/;/tour/mallorca/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-162;/tour/masella-2/;/tour/masella/;301;Duplicat de /tour/masella/;mitjana;lista;inventari
-163;/tour/menorca-12/;/tour/menorca/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-164;/tour/menorca-9/;/tour/menorca/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-165;/tour/napols-3/;/tour/napols/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-166;/tour/paris-5/;/tour/paris/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-167;/tour/praga-berlin-2/;/tour/praga-berlin/;301;Dues versions de Praga-Berlin: es fusionen a la fitxa unica;baixa;REVISAR: decidir quina versio del contingut es la vigent;inventari
-168;/tour/puigcerda-2/;/tour/puigcerda/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-169;/tour/puigcerda-3/;/tour/puigcerda/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-170;/tour/puigcerda-4/;/tour/puigcerda/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-171;/tour/roma-16/;/tour/roma/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-172;/tour/roma-2/;/tour/roma/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-173;/tour/roma-florencia-3/;/tour/roma-florencia/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-174;/tour/selva-negra-baviera-3/;/tour/selva-negra-baviera/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-175;/tour/sud-de-franca-7/;/tour/sud-de-franca/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-176;/tour/sud-de-franca-9/;/tour/sud-de-franca/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-177;/tour/toscana-13/;/tour/toscana/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-178;/tour/valencia-4/;/tour/valencia/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-179;/tour/vall-de-pineta-2/;/tour/vall-de-pineta/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-180;/tour/venecia-3/;/tour/venecia/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-181;/tour/venecia-florencia-11/;/tour/venecia-florencia/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-182;/tour/venecia-florencia-roma-2/;/tour/venecia-florencia-roma/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-183;/tour/viaje-en-grupo-a-eslovenia/;/tour/eslovenia/;301;Duplicat en castella de visita-en-grup-a-eslovenia (preus diferents);mitjana;REVISAR;inventari
-184;/tour/visita-en-grup-a-eslovenia/;/tour/eslovenia/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
-185;/transport-public-a-berlin/;/blog/transport-public-a-berlin/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
-186;/transport-public-a-dublin/;/blog/transport-public-a-dublin/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
-187;/transport-public-a-lisboa/;/blog/transport-public-a-lisboa/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
-188;/transport-public-a-praga/;/blog/transport-public-a-praga/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
-189;/transport-public-roma/;/blog/transport-public-roma/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
-190;/turisme-sostenible/;/blog/turisme-sostenible/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
-191;/vacances-a-peu/;/blog/vacances-a-peu/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
-192;/valua-attitude-sota-la-lupa-de-ucla-anderson-el-que-lanalisi-confirma-i-el-que-ens-impulsa/;/blog/valua-attitude-sota-la-lupa-de-ucla-anderson-el-que-lanalisi-confirma-i-el-que-ens-impulsa/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
-193;/viatges-escolars-a-catalunya-per-que-no-podem-deixar-que-desapareguin/;/blog/viatges-escolars-a-catalunya-per-que-no-podem-deixar-que-desapareguin/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
-194;/es/adrenalina-port-aventura-world-2/;/es/blog/;301;Regla antiga: la pagina de desti no existeix a la web nova (entrades ES nomes 6);baixa;REVISAR;plugin Redirection
-195;/es/apps-de-transport-mou-te-per-europa/;/es/blog/;301;"Regla antiga amb 3 destins diferents; l'entrada ES no es migra";baixa;REVISAR;plugin Redirection
-196;/es/avantatges-de-reservar-viatges-amb-antelacio-2/;/es/blog/;301;Regla antiga: la pagina de desti no existeix a la web nova (entrades ES nomes 6);baixa;REVISAR;plugin Redirection
-197;/es/el-exito-del-sorteo-de-fin-de-curso/;/es/blog/;301;Regla antiga: la pagina de desti no existeix a la web nova (entrades ES nomes 6);baixa;REVISAR;plugin Redirection
-198;/es/endolls-del-mon/;/es/blog/;301;Regla antiga: la pagina de desti no existeix a la web nova (entrades ES nomes 6);baixa;REVISAR;plugin Redirection
-199;/es/equipatge-aerolinies/;/es/blog/;301;Regla antiga: la pagina de desti no existeix a la web nova (entrades ES nomes 6);baixa;REVISAR;plugin Redirection
-200;/es/les-12-apps-que-tajudaran-a-recorrer-el-mon-2/;/es/blog/;301;Regla antiga: la pagina de desti no existeix a la web nova (entrades ES nomes 6);baixa;REVISAR;plugin Redirection
-201;/es/moana-eco-surf-house-2/;/es/blog/;301;Regla antiga: la pagina de desti no existeix a la web nova (entrades ES nomes 6);baixa;REVISAR;plugin Redirection
-202;/es/necessito-visat-per-viatjar/;/es/blog/;301;Regla antiga: la pagina de desti no existeix a la web nova (entrades ES nomes 6);baixa;REVISAR;plugin Redirection
-203;/es/passaports-del-mon-a-la-teva-butxaca/;/es/blog/;301;Regla antiga: la pagina de desti no existeix a la web nova (entrades ES nomes 6);baixa;REVISAR;plugin Redirection
-204;/es/proces_inscripcio_valua/;/es/blog/;301;Regla antiga: la pagina de desti no existeix a la web nova (entrades ES nomes 6);baixa;REVISAR;plugin Redirection
-205;/es/que-documentacion-necesito-para-a-viajar/;/es/blog/;301;Regla antiga: la pagina de desti no existeix a la web nova (entrades ES nomes 6);baixa;REVISAR;plugin Redirection
-206;/es/quina-documentacio-necessito-per-a-viatjar/;/es/blog/;301;Regla antiga: la pagina de desti no existeix a la web nova (entrades ES nomes 6);baixa;REVISAR;plugin Redirection
-207;/es/targeta-sanitaria-viatges-europa/;/es/blog/;301;Regla antiga: la pagina de desti no existeix a la web nova (entrades ES nomes 6);baixa;REVISAR;plugin Redirection
-208;/es/transporte-publico-en-londres/;/es/blog/;301;"Regla antiga en BUCLE (redirigeix a si mateixa) i a un altre desti; no hi ha entrada de Londres";baixa;REVISAR;plugin Redirection
-209;/es/vacances-a-peu-2/;/es/blog/;301;Regla antiga: la pagina de desti no existeix a la web nova (entrades ES nomes 6);baixa;REVISAR;plugin Redirection
-210;/instruccions-embarcament/;/blog/equipatge-aerolinies/;301;Regla antiga del plugin Redirection;alta;lista;plugin Redirection
-211;/moana-eco-surf-house/;/blog/turisme-sostenible/;301;Regla antiga del plugin Redirection;alta;lista;plugin Redirection
-212;/passaports-del-mon-a-la-teva-butxaca-2/;/blog/passaports-del-mon-a-la-teva-butxaca/;301;"Regla antiga amb 6 destins diferents (nomes s'aplicava la primera, erronia); es proposa l'entrada original";mitjana;REVISAR;plugin Redirection
-213;/quina-documentacio-necessito-per-a-viatjar/;/blog/quina-documentacio-necessito-per-viatjar/;301;Regla antiga del plugin Redirection;alta;lista;plugin Redirection
+66;/es/tour/curso-ingles-dublin/;/es/tour/curs-angles-estranger/;301;Tour ES -> fitxa unica ES (amb selector de durada);mitjana;REVISAR: aparellat pel programa, confirmar;inventari
+67;/es/tour/font-romeu-2/;/es/tour/font-romeu/;301;Tour ES -> fitxa unica ES (amb selector de durada);mitjana;lista;inventari
+68;/es/tour/inglaterra-programa-ascot/;/es/tour/anglaterra-programa-ascot/;301;Tour ES -> fitxa unica ES (amb selector de durada);mitjana;REVISAR: aparellat pel programa, confirmar;inventari
+69;/es/tour/inglaterra-programa-junior-broadstairs/;/es/tour/anglaterra-programa-junior-broadstairs/;301;Tour ES -> fitxa unica ES (amb selector de durada);mitjana;lista;inventari
+70;/es/tour/inglaterra-programa-junior-valencia-broadstairs-11-17-anos/;/es/tour/anglaterra-programa-junior-broadstairs/;301;Tour ES -> fitxa unica ES (amb selector de durada);baixa;REVISAR: el nom diu Valencia-Broadstairs, confirmar que es el mateix programa;inventari
+71;/es/tour/irlanda-programa-junior-dublin-11-a-17-anos/;/es/tour/irlanda-programa-junior-dublin-en-residencia/;301;Tour ES -> fitxa unica ES (amb selector de durada);mitjana;REVISAR: aparellat pel programa, confirmar;inventari
+72;/es/tour/malgrat-de-mar-2-2-2/;/es/tour/malgrat-de-mar/;301;Tour ES -> fitxa unica ES (amb selector de durada);mitjana;lista;inventari
+73;/es/tour/malgrat-de-mar-3-2/;/es/tour/malgrat-de-mar/;301;Tour ES -> fitxa unica ES (amb selector de durada);mitjana;lista;inventari
+74;/es/tour/malgrat-de-mar-4-2/;/es/tour/malgrat-de-mar/;301;Tour ES -> fitxa unica ES (amb selector de durada);mitjana;lista;inventari
+75;/es/tour/masella-2/;/es/tour/masella/;301;Tour ES -> fitxa unica ES (amb selector de durada);mitjana;lista;inventari
+76;/es/tour/puigcerda-2-2/;/es/tour/puigcerda/;301;Tour ES -> fitxa unica ES (amb selector de durada);mitjana;lista;inventari
+77;/es/tour/puigcerda-3-2/;/es/tour/puigcerda/;301;Tour ES -> fitxa unica ES (amb selector de durada);mitjana;lista;inventari
+78;/es/tour/puigcerda-4-2/;/es/tour/puigcerda/;301;Tour ES -> fitxa unica ES (amb selector de durada);mitjana;lista;inventari
+79;/es/tour/puigcerda-esquiada-escolar-2/;/es/tour/puigcerda-esquiada-escolar/;301;Tour ES -> fitxa unica ES (amb selector de durada);mitjana;lista;inventari
+80;/es/valua-attitude-bajo-la-lupa-de-ucla-anderson-quien-confirma-el-analisis-y-quien-nos-impulsa/;/es/blog/valua-attitude-bajo-la-lupa-de-ucla-anderson-quien-confirma-el-analisis-y-quien-nos-impulsa/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
+81;/es/viajes-escolares-a-cataluna-por-que-no-podemos-dejar-que-desaparezcan/;/es/blog/viajes-escolares-a-cataluna-por-que-no-podemos-dejar-que-desaparezcan/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
+82;/escoles-confien-en-valua-travel/;/blog/escoles-confien-en-valua-travel/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
+83;/eta-regne-unit/;/blog/eta-regne-unit/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
+84;/exit-sorteig-fi-de-curs/;/blog/exit-sorteig-fi-de-curs/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
+85;/groups/contacte/;/contacte/;301;Slug renombrat o duplicat;alta;lista;inventari
+86;/groups/setmana-blanca/;/setmana-blanca/;301;Slug renombrat o duplicat;alta;lista;inventari
+87;/groups/setmana-blava/;/setmana-blava/;301;Slug renombrat o duplicat;alta;lista;inventari
+88;/groups/setmana-verda/;/setmana-verda/;301;Slug renombrat o duplicat;alta;lista;inventari
+89;/inteligencia-artificial-viatge-escolar/;/blog/inteligencia-artificial-viatge-escolar/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
+90;/languages/avis_legal/;/avis-legal/;301;Slug renombrat o duplicat;alta;lista;inventari
+91;/les-12-apps-que-tajudaran-a-recorrer-el-mon/;/blog/les-12-apps-que-tajudaran-a-recorrer-el-mon/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
+92;/maleta-perduda-al-viatge-de-final-de-curs/;/blog/maleta-perduda-al-viatge-de-final-de-curs/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
+93;/necessito-visat-per-viatjar/;/blog/necessito-visat-per-viatjar/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
+94;/organitzar-el-viatge-escolar/;/blog/organitzar-el-viatge-escolar/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
+95;/passaports-del-mon-a-la-teva-butxaca/;/blog/passaports-del-mon-a-la-teva-butxaca/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
+96;/perdua-documentacio-estranger/;/blog/perdua-documentacio-estranger/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
+97;/personnel/albert-pimas/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
+98;/personnel/arnau-garcia/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
+99;/personnel/beatriz-bosgos/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
+100;/personnel/cristina-sanchez/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
+101;/personnel/emliano-issaly/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
+102;/personnel/eva-navarro/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
+103;/personnel/francesc-palahi/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
+104;/personnel/goncal-portas/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
+105;/personnel/ivan-fernandez/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
+106;/personnel/lorena-font/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
+107;/personnel/marc-abella/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
+108;/personnel/maria-merce/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
+109;/personnel/mireia-fluvia/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
+110;/personnel/mireia-rivero/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
+111;/personnel/paola-baldino/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
+112;/personnel/pep-mas/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
+113;/personnel/sonia-estevez/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
+114;/personnel/vanessa-garcia/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
+115;/personnel/xavier-cata/;/qui-som/;301;Fitxes d'equip -> seccio dins Qui som;alta;lista;inventari
+116;/politica-de-cookies-ue/;/politica-de-cookies/;301;Slug renombrat o duplicat;alta;lista;inventari
+117;/quina-documentacio-necessito-per-viatjar/;/blog/quina-documentacio-necessito-per-viatjar/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
+118;/search-tours/;/tours/;301;Slug renombrat o duplicat;alta;lista;inventari
+119;/services/;/serveis/;301;Slug renombrat o duplicat;alta;lista;inventari
+120;/services/avis_legal/;/avis-legal/;301;Slug renombrat o duplicat;alta;lista;inventari
+121;/significat-colors-passaports/;/blog/significat-colors-passaports/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
+122;/tag/abans-del-viatge/;/blog/;301;Arxiu automatic (categoria/etiqueta/autor/data/paginacio) -> llistat del blog (filtres per decidir);mitjana;lista;inventari
+123;/tag/curiositats/;/blog/;301;Arxiu automatic (categoria/etiqueta/autor/data/paginacio) -> llistat del blog (filtres per decidir);mitjana;lista;inventari
+124;/tag/documentacio/;/blog/;301;Arxiu automatic (categoria/etiqueta/autor/data/paginacio) -> llistat del blog (filtres per decidir);mitjana;lista;inventari
+125;/tag/durant-el-viatge/;/blog/;301;Arxiu automatic (categoria/etiqueta/autor/data/paginacio) -> llistat del blog (filtres per decidir);mitjana;lista;inventari
+126;/tag/equipatge/;/blog/;301;Arxiu automatic (categoria/etiqueta/autor/data/paginacio) -> llistat del blog (filtres per decidir);mitjana;lista;inventari
+127;/tag/financament/;/blog/;301;Arxiu automatic (categoria/etiqueta/autor/data/paginacio) -> llistat del blog (filtres per decidir);mitjana;lista;inventari
+128;/tag/sortides-escolars/;/blog/;301;Arxiu automatic (categoria/etiqueta/autor/data/paginacio) -> llistat del blog (filtres per decidir);mitjana;lista;inventari
+129;/tag/transport-public/;/blog/;301;Arxiu automatic (categoria/etiqueta/autor/data/paginacio) -> llistat del blog (filtres per decidir);mitjana;lista;inventari
+130;/tag/turisme-sostenible/;/blog/;301;Arxiu automatic (categoria/etiqueta/autor/data/paginacio) -> llistat del blog (filtres per decidir);mitjana;lista;inventari
+131;/targeta-sanitaria-viatges-europa/;/blog/targeta-sanitaria-viatges-europa/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
+132;/tour-category/valua-groups-ca/;/tours/;301;Arxiu de tour -> pagina del programa;mitjana;lista;inventari
+133;/tour-category/valua-languages-ca/;/languages/;301;Arxiu de tour -> pagina del programa;mitjana;lista;inventari
+134;/tour-tag/setmana-blanca-ca/;/setmana-blanca/;301;Arxiu de tour -> pagina del programa;mitjana;lista;inventari
+135;/tour-tag/setmana-blava-ca/;/setmana-blava/;301;Arxiu de tour -> pagina del programa;mitjana;lista;inventari
+136;/tour-tag/setmana-verda-ca/;/setmana-verda/;301;Arxiu de tour -> pagina del programa;mitjana;lista;inventari
+137;/tour-tag/summer-camps-ca/;/summer-camps/;301;Arxiu de tour -> pagina del programa;mitjana;lista;inventari
+138;/tour/aa-grecia-ok/;;410;Pagina de prova (no es migra);alta;lista;inventari
+139;/tour/amsterdam5dies/;/tour/amsterdam/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+140;/tour/andalusia-3/;/tour/andalusia/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+141;/tour/andorra6d/;/tour/andorra/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+142;/tour/asturies5d/;/tour/asturies/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+143;/tour/bergueda-2/;/tour/bergueda/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+144;/tour/bergueda-3/;/tour/bergueda/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+145;/tour/bergueda-4/;/tour/bergueda/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+146;/tour/berlin-4/;/tour/berlin/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+147;/tour/bolonya-roma-2/;/tour/bolonya-roma/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+148;/tour/brusselas5d/;/tour/brusselas/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+149;/tour/canada-toronto-2/;/tour/canada-toronto/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+150;/tour/cantabria-3/;/tour/cantabria/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+151;/tour/cerdanya-2/;/tour/cerdanya/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+152;/tour/cerdanya-3/;/tour/cerdanya/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+153;/tour/copy-of-grecia-ok-2/;;410;Pagina de prova (no es migra);alta;lista;inventari
+154;/tour/copy-of-grecia-ok/;;410;Pagina de prova (no es migra);alta;lista;inventari
+155;/tour/dublin-9/;/tour/dublin/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+156;/tour/dubrovnik5d/;/tour/dubrovnik/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+157;/tour/edimburg-2/;/tour/edimburg/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+158;/tour/euskadi-2/;/tour/euskadi/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+159;/tour/florencia-roma-5/;/tour/florencia-roma/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+160;/tour/florencia-venecia-2/;/tour/florencia-venecia/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+161;/tour/lisboa-3/;/tour/lisboa/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+162;/tour/londres-2/;/tour/londres/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+163;/tour/madrid-11/;/tour/madrid/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+164;/tour/malgrat-de-mar-2-2/;/tour/malgrat-de-mar/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+165;/tour/malgrat-de-mar-2/;/tour/malgrat-de-mar/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+166;/tour/malgrat-de-mar-3/;/tour/malgrat-de-mar/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+167;/tour/malgrat-de-mar-4/;/tour/malgrat-de-mar/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+168;/tour/mallorca-2/;/tour/mallorca/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+169;/tour/masella-2/;/tour/masella/;301;Duplicat de /tour/masella/;mitjana;lista;inventari
+170;/tour/menorca-12/;/tour/menorca/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+171;/tour/menorca-9/;/tour/menorca/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+172;/tour/napols-3/;/tour/napols/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+173;/tour/paris-5/;/tour/paris/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+174;/tour/praga-berlin-2/;/tour/praga-berlin/;301;Dues versions de Praga-Berlin: es fusionen a la fitxa unica;baixa;REVISAR: decidir quina versio del contingut es la vigent;inventari
+175;/tour/puigcerda-2/;/tour/puigcerda/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+176;/tour/puigcerda-3/;/tour/puigcerda/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+177;/tour/puigcerda-4/;/tour/puigcerda/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+178;/tour/roma-16/;/tour/roma/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+179;/tour/roma-2/;/tour/roma/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+180;/tour/roma-florencia-3/;/tour/roma-florencia/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+181;/tour/selva-negra-baviera-3/;/tour/selva-negra-baviera/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+182;/tour/sud-de-franca-7/;/tour/sud-de-franca/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+183;/tour/sud-de-franca-9/;/tour/sud-de-franca/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+184;/tour/toscana-13/;/tour/toscana/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+185;/tour/valencia-4/;/tour/valencia/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+186;/tour/vall-de-pineta-2/;/tour/vall-de-pineta/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+187;/tour/venecia-3/;/tour/venecia/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+188;/tour/venecia-florencia-11/;/tour/venecia-florencia/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+189;/tour/venecia-florencia-roma-2/;/tour/venecia-florencia-roma/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+190;/tour/viaje-en-grupo-a-eslovenia/;/tour/eslovenia/;301;Duplicat en castella de visita-en-grup-a-eslovenia (preus diferents);mitjana;REVISAR;inventari
+191;/tour/visita-en-grup-a-eslovenia/;/tour/eslovenia/;301;Tour: una fitxa per desti amb selector de durada;alta;lista;inventari
+192;/transport-public-a-berlin/;/blog/transport-public-a-berlin/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
+193;/transport-public-a-dublin/;/blog/transport-public-a-dublin/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
+194;/transport-public-a-lisboa/;/blog/transport-public-a-lisboa/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
+195;/transport-public-a-praga/;/blog/transport-public-a-praga/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
+196;/transport-public-roma/;/blog/transport-public-roma/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
+197;/turisme-sostenible/;/blog/turisme-sostenible/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
+198;/vacances-a-peu/;/blog/vacances-a-peu/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
+199;/valua-attitude-sota-la-lupa-de-ucla-anderson-el-que-lanalisi-confirma-i-el-que-ens-impulsa/;/blog/valua-attitude-sota-la-lupa-de-ucla-anderson-el-que-lanalisi-confirma-i-el-que-ens-impulsa/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
+200;/viatges-escolars-a-catalunya-per-que-no-podem-deixar-que-desapareguin/;/blog/viatges-escolars-a-catalunya-per-que-no-podem-deixar-que-desapareguin/;301;Les entrades passen a penjar de /blog/;alta;lista;inventari
+201;/es/adrenalina-port-aventura-world-2/;/es/blog/;301;Regla antiga: la pagina de desti no existeix a la web nova (entrades ES nomes 6);baixa;REVISAR;plugin Redirection
+202;/es/apps-de-transport-mou-te-per-europa/;/es/blog/;301;"Regla antiga amb 3 destins diferents; l'entrada ES no es migra";baixa;REVISAR;plugin Redirection
+203;/es/avantatges-de-reservar-viatges-amb-antelacio-2/;/es/blog/;301;Regla antiga: la pagina de desti no existeix a la web nova (entrades ES nomes 6);baixa;REVISAR;plugin Redirection
+204;/es/el-exito-del-sorteo-de-fin-de-curso/;/es/blog/;301;Regla antiga: la pagina de desti no existeix a la web nova (entrades ES nomes 6);baixa;REVISAR;plugin Redirection
+205;/es/endolls-del-mon/;/es/blog/;301;Regla antiga: la pagina de desti no existeix a la web nova (entrades ES nomes 6);baixa;REVISAR;plugin Redirection
+206;/es/equipatge-aerolinies/;/es/blog/;301;Regla antiga: la pagina de desti no existeix a la web nova (entrades ES nomes 6);baixa;REVISAR;plugin Redirection
+207;/es/les-12-apps-que-tajudaran-a-recorrer-el-mon-2/;/es/blog/;301;Regla antiga: la pagina de desti no existeix a la web nova (entrades ES nomes 6);baixa;REVISAR;plugin Redirection
+208;/es/moana-eco-surf-house-2/;/es/blog/;301;Regla antiga: la pagina de desti no existeix a la web nova (entrades ES nomes 6);baixa;REVISAR;plugin Redirection
+209;/es/necessito-visat-per-viatjar/;/es/blog/;301;Regla antiga: la pagina de desti no existeix a la web nova (entrades ES nomes 6);baixa;REVISAR;plugin Redirection
+210;/es/passaports-del-mon-a-la-teva-butxaca/;/es/blog/;301;Regla antiga: la pagina de desti no existeix a la web nova (entrades ES nomes 6);baixa;REVISAR;plugin Redirection
+211;/es/proces_inscripcio_valua/;/es/blog/;301;Regla antiga: la pagina de desti no existeix a la web nova (entrades ES nomes 6);baixa;REVISAR;plugin Redirection
+212;/es/que-documentacion-necesito-para-a-viajar/;/es/blog/;301;Regla antiga: la pagina de desti no existeix a la web nova (entrades ES nomes 6);baixa;REVISAR;plugin Redirection
+213;/es/quina-documentacio-necessito-per-a-viatjar/;/es/blog/;301;Regla antiga: la pagina de desti no existeix a la web nova (entrades ES nomes 6);baixa;REVISAR;plugin Redirection
+214;/es/targeta-sanitaria-viatges-europa/;/es/blog/;301;Regla antiga: la pagina de desti no existeix a la web nova (entrades ES nomes 6);baixa;REVISAR;plugin Redirection
+215;/es/transporte-publico-en-londres/;/es/blog/;301;"Regla antiga en BUCLE (redirigeix a si mateixa) i a un altre desti; no hi ha entrada de Londres";baixa;REVISAR;plugin Redirection
+216;/es/vacances-a-peu-2/;/es/blog/;301;Regla antiga: la pagina de desti no existeix a la web nova (entrades ES nomes 6);baixa;REVISAR;plugin Redirection
+217;/instruccions-embarcament/;/blog/equipatge-aerolinies/;301;Regla antiga del plugin Redirection;alta;lista;plugin Redirection
+218;/moana-eco-surf-house/;/blog/turisme-sostenible/;301;Regla antiga del plugin Redirection;alta;lista;plugin Redirection
+219;/passaports-del-mon-a-la-teva-butxaca-2/;/blog/passaports-del-mon-a-la-teva-butxaca/;301;"Regla antiga amb 6 destins diferents (nomes s'aplicava la primera, erronia); es proposa l'entrada original";mitjana;REVISAR;plugin Redirection
+220;/quina-documentacio-necessito-per-a-viatjar/;/blog/quina-documentacio-necessito-per-viatjar/;301;Regla antiga del plugin Redirection;alta;lista;plugin Redirection
