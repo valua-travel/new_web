@@ -1,6 +1,6 @@
 # Brief per a Claude Design — web nova de Valua Travel (ESBORRANY)
 
-*07/10/2026. Elaborat a partir de `CLAUDE.md`, `classificacio.xlsx`, `arquitectura/mapa-web.md` i els textos de `_fuentes/ca/`. Incorpora les decisions i respostes de Gonçal del 07/10/2026 (§0). **Falta l'OK final dels entregables.** Tot el text surt de la web actual. Res d'inventat: el que falta és `[PENDENT]`.*
+*07/10/2026 (entregables lliurats a Gonçal). Elaborat a partir de `CLAUDE.md`, `classificacio.xlsx`, `arquitectura/mapa-web.md` i els textos de `_fuentes/ca/`. Incorpora les decisions i respostes de Gonçal del 07/10/2026 (§0). **Falta l'OK final dels entregables.** Tot el text surt de la web actual. Res d'inventat: el que falta és `[PENDENT]`.*
 
 ## 0. Decisions de Gonçal (07/10/2026) — ja resoltes
 **Primera tanda**
@@ -113,7 +113,7 @@ Català (per defecte, a l'arrel), castellà (`/es/`) i anglès (`/en/`): **confi
 | Blau d'enllaços i elements | `#468AE7` / `#4F99E4` / `#5990E0` |
 | Grisos de text | `#565556`, `#424242`, `#333333`, `#3A3A3A`; fons clar `#F3F3F3`; blanc i negre |
 
-`[PENDENT]` Gonçal ha de confirmar que aquesta paleta i aquestes fonts són les que vol mantenir. **Els colors del manual de 2017 (verd, blau, vermell, vermell taronja, llima) i la tipografia Calibri no coincideixen amb la web actual**: s'han de mantenir només per als logotips de cada línia, no com a paleta de la web, tret que Gonçal digui el contrari.
+**Paleta i fonts confirmades (07/10/2026).** **Els colors del manual de 2017 (verd, blau, vermell, vermell taronja, llima) i la tipografia Calibri no coincideixen amb la web actual**: s'han de mantenir només per als logotips de cada línia, no com a paleta de la web, tret que Gonçal digui el contrari.
 
 Font: `LOGOS & SEGELL/Manual_Identidad_LOGOS.pdf` (versió completa, amb colors) i `MKG & COMUNICACIÓ/ESTRATEGIA DE MARCA/ESTRATEGIA DE MARCA/VALUA_Manual_Identidad.pdf` (versió una mica anterior, sense especificacions de color). **Són de juliol de 2017: cal confirmar que continuen vigents.**
 
@@ -144,9 +144,9 @@ Colors principals de la marca: **blanc i negre**. Cada sub-marca té una parella
 **Fotografia i imatge:** naturals i creïbles, no forçades ni «de revista»; punt de vista de la persona (evitar plànols aeris irreals). Attitude: aventura, descobriment, amistat, curiositat, desconnexió de la rutina, rebel·lia, flexibilitat. Groups: humor, diversió, llibertat, independència, protecció, amistat, importància del grup, primeres vegades. Languages: responsabilitat, primers passos cap a la maduresa, valor de l'esforç, conèixer gent nova, seguretat, independència, il·lusió pel futur.
 
 **Pendent / a tenir en compte**
-- El manual és de 2017 i no inclou Services, Tribes, I2EU ni els logos del 2024 (`VALUA_Logo_1.png`, `VALUA_Logo_2.png`). A `VALUA TRIBES/` hi ha una carpeta d'identitat de marca (IA) i logotip propis.
+- El manual és de 2017 i no inclou Services, Tribes ni I2EU. (`VALUA_Logo_1.png` i `VALUA_Logo_2.png` de `LOGOS & SEGELL` **no són logotips**: són imatges de fons amb cel i núvols.) A `VALUA TRIBES/` hi ha una carpeta d'identitat de marca (IA) i logotips propis de Tribes.
 - El manual dóna l'adreça antiga (Carrer Sant Josep 4); la web actual diu Muralla de Sant Llorenç 37.
-- Per a Claude Design cal el logotip **en vectorial (SVG/PDF) o PNG gran amb transparència**; hi ha EPS i PNG petits (el de GitHub, `valua-travel-logo.jpg`, és només de 3,7 KB). `[PENDENT]` demanar a Màrqueting un SVG.
+- **Logotips vàlids (PNG amb fons transparent i alta resolució), comprovats el 07/10/2026**, a `LOGOS & SEGELL/FORMATO_NORMAL/`: `VALUA_Travel_horiz_black.png` i `VALUA_Travel_horiz_white.png` (3508×736, el principal horitzontal), `VALUA_logo_black.png` i `VALUA_logo_white.png` (3508×1460), `VALUA_Travel_vert_black.png` (3508×2480), `VALUA_Isotipo_black.png` (2480×3508), `VALUA_Attitude_green.png` (2492×933), `VALUA_Groups_red.png` (1942×933), `VALUA_Languages_blue.png` (3186×933), `Valua_Services.png` (1266×205) i `Valua Incoming.png` (2075×758). Versions en blanc de 3508 d'ample també a `MKG & COMUNICACIÓ/LOGOS-TIPOGRFIA_VALUA/FORMATO_NORMAL/`. **No serveixen** (sense transparència o massa petits): `VALUA_Travel_vert_black_low res.png`, `Valua_Groups_Low Res.png`, `logo valua travel 320x230px.png` i els PNG de 842×595 en paleta. **Logotips en PNG transparent confirmats com a vàlids (07/10/2026).** `[PENDENT]` opcional: SVG o PDF vectorial (hi ha EPS).
 - **Referència de disseny: la pròpia web actual de WordPress** (valuatravel.com). No calen altres webs d'inspiració (Gonçal, 07/10/2026): la web nova s'ha d'inspirar en l'estructura, l'estil i el to de l'actual, millorant-ne la usabilitat i el rendiment.
 
 ## 9. Pendents (resum)
@@ -158,10 +158,10 @@ Colors principals de la marca: **blanc i negre**. Cada sub-marca té una parella
 3. **24 tours i 18 entrades** en esborrany.
 
 **Pendent de confirmar**
-4. Que la paleta i les fonts de la web actual (§8) són les que Gonçal vol mantenir.
+4. ~~Paleta i fonts de la web actual (§8)~~: **confirmades.**
 5. Quina redacció preval a `/serveis/`: el text actual o l'esborrany de Valua Services.
 6. ~~Referències de disseny~~: **no calen**; la referència és la web actual de WordPress.
-7. Un logotip en vectorial (SVG/PDF) o PNG gran amb transparència; el de GitHub és un JPG de 3,7 KB.
+7. ~~Logotip~~: **resolt** amb els PNG transparents de `LOGOS & SEGELL/FORMATO_NORMAL/` (§8).
 8. Text de Tribes en ES i EN, amb les errates de l'original corregides.
 
 **Feina nostra (sense decisions)**
