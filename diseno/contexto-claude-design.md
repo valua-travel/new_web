@@ -34,8 +34,9 @@ Avals que es repeteixen a la web actual: assistència 24/7 durant el viatge; res
 | Altres | Serveis / Valua Services (esborrany) | 7000 passatgers, 98 % satisfets, ~5.500 proveïdors, +3.000 bitllets d'avió l'any, 230 grups, 176 empreses de transport |
 | Comptadors de la portada | Inici / Qui som | El text original només conserva «0Mil», «0 %»: s'animen amb JS i els valors es van perdre en l'extracció |
 
-## 3. Tono
-`[PENDENT]` No hi ha guia de to escrita. Observat als textos actuals: tracte proper i directe (tu), frases curtes, lemes tipus «T'ho fem fàcil», «Nosaltres gestionem, tu ensenyes». Cal que Gonçal confirmi si el to és aquest.
+## 3. Tono i personalitat de marca
+Segons el **Manual d'Identitat de Marca** (Nóctope, juliol 2017): el logotip busca transmetre «aventura i descobriment». Els conceptes que defineixen la marca són vuit adjectius: **Apassionats, Propers, Compromesos, Curiosos, Vitals, Racionals, Oberts i Resolutius.**
+Observat als textos actuals de la web: tracte proper i directe (tu), frases curtes, lemes tipus «T'ho fem fàcil», «Nosaltres gestionem, tu ensenyes». `[PENDENT]` Gonçal ha de confirmar que el to continua sent aquest.
 
 ## 4. Objectius del visitant
 Accions principals que la web actual ja ofereix:
@@ -88,8 +89,40 @@ Català (per defecte, a l'arrel), castellà (`/es/`) i anglès (`/en/`): **confi
 - **Sense dependre de Revolution Slider, WPML ni Tourmaster**: són plugins de la web actual (alguns desactualitzats) que no s'han de portar. `[PENDENT]` confirmar-ho amb Gonçal.
 - Públic mixt: centres educatius, professorat i famílies (segons `CLAUDE.md`).
 
-## 8. Identitat visual
-`[PENDENT]` No hi ha guia de marca (colors, tipografies, regles del logotip). Material disponible: logotip, imatges usades (`_fuentes/imagenes/`, 509 fitxers) i la web actual com a referència. `[PENDENT]` Referències de disseny que li agraden o no a Gonçal.
+## 8. Identitat visual (del Manual d'Identitat de Marca, 2017)
+Font: `LOGOS & SEGELL/Manual_Identidad_LOGOS.pdf` (versió completa, amb colors) i `MKG & COMUNICACIÓ/ESTRATEGIA DE MARCA/ESTRATEGIA DE MARCA/VALUA_Manual_Identidad.pdf` (versió una mica anterior, sense especificacions de color). **Són de juliol de 2017: cal confirmar que continuen vigents.**
+
+**Logotip**
+- Creat a partir de formes tipogràfiques pròpies; la «V» té un element superior que recorda un ocell alçant el vol. Existeix com a **isotip** (la «V» sola, només en usos limitats) i com a logotip + «travel» (horitzontal o vertical).
+- El logotip només pot anar en **blanc o negre** (positiu o negatiu, mai barrejats), mai en cap altre color, ni degradats, ni amb vora. Zona d'exclusió: l'alçada de les lletres.
+- **Mida mínima web: 115 px d'ample** (3 cm en paper).
+- Sub-marques amb logotip propi (en tipografia Travel): **Attitude, Groups, Languages**. Hi ha també fitxers de Services, Incoming i Tribes (2026) que el manual no recull.
+- Fitxers: PNG a `LOGOS & SEGELL/FORMATO_NORMAL/` i vectorials EPS a `MKG & COMUNICACIÓ/LOGOS-TIPOGRFIA_VALUA/FORMATO_PROGRAMING/`.
+
+**Colors** (secundaris: només per a bases de color, icones i il·lustracions, mai pel logotip)
+
+| Color | HTML | RGB | Pantone |
+|---|---|---|---|
+| Verd | `#00AE65` | 0 174 101 | 3405 |
+| Blau | `#0099CC` | 0 153 204 | 639 |
+| Vermell | `#EA2839` (RGB indica 205 32 44 = `#CD202C`: el manual es contradiu) | 205 32 44 | 1795 |
+| Vermell taronja | `#F7403A` | 247 64 58 | Warm Red |
+| Llima | `#DFDF00` | 223 223 0 | 396 |
+
+Colors principals de la marca: **blanc i negre**. Cada sub-marca té una parella: Attitude (aventura, natura, passió, contrastos), Groups (càlids, propers, alegres) i Languages (món anglosaxó, tranquil·litat, frescor). `[PENDENT]` el manual no deixa clar en text quina parella de colors correspon a cada una; pels noms dels fitxers de logo serien Attitude = verd, Groups = vermell, Languages = blau.
+
+**Tipografies**
+- **Travel** (corporativa principal): només per als logotips de les àrees i conceptes essencials. No és una font per al text.
+- **FF Mark** (secundària): text general, sobretot en suports impresos.
+- **Calibri** (de sistema): s'usa quan el suport digital no permet FF Mark, **com a web, PowerPoint i documents**. Per a la web, el manual indica Calibri. `[PENDENT]` FF Mark és una font de pagament: si es vol a la web, cal llicència.
+
+**Fotografia i imatge:** naturals i creïbles, no forçades ni «de revista»; punt de vista de la persona (evitar plànols aeris irreals). Attitude: aventura, descobriment, amistat, curiositat, desconnexió de la rutina, rebel·lia, flexibilitat. Groups: humor, diversió, llibertat, independència, protecció, amistat, importància del grup, primeres vegades. Languages: responsabilitat, primers passos cap a la maduresa, valor de l'esforç, conèixer gent nova, seguretat, independència, il·lusió pel futur.
+
+**Pendent / a tenir en compte**
+- El manual és de 2017 i no inclou Services, Tribes, I2EU ni els logos del 2024 (`VALUA_Logo_1.png`, `VALUA_Logo_2.png`). A `VALUA TRIBES/` hi ha una carpeta d'identitat de marca (IA) i logotip propis.
+- El manual dóna l'adreça antiga (Carrer Sant Josep 4); la web actual diu Muralla de Sant Llorenç 37.
+- Per a Claude Design cal el logotip **en vectorial (SVG/PDF) o PNG gran amb transparència**; hi ha EPS i PNG petits (el de GitHub, `valua-travel-logo.jpg`, és només de 3,7 KB). `[PENDENT]` demanar a Màrqueting un SVG.
+- `[PENDENT]` Referències de disseny que li agraden o no a Gonçal.
 
 ## 9. Pendents (resum)
 **Resolt el 07/10/2026:** reserva de tours (no), durades (selector), Groups/I2EU (pàgina pròpia), Tribes (línia nova), què es migra (tot), idiomes (CA/ES/EN).

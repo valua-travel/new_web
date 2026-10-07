@@ -46,4 +46,4 @@ La web nova serà en **català, castellà i anglès**.
 - `valua-web/` — codi Next.js i documentació (veure `valua-web/AGENTS.md`: aquesta versió de Next.js té canvis incompatibles; llegeix `node_modules/next/dist/docs/` abans de programar).
 - `valua-web/_fuentes/` — text original, traduccions EN, imatges, redireccions.
 - `SEO_yoast/`, `SEO_crawl/`, `sitemap/`, `INVENTARI_PLUGINS/`, `captures-formularis/` — lliurables d'inventari.
-- `backups_wordpress_2026-10-05/`, `wp-content.zip` — còpies de seguretat; no tocar.
+- `backups_wordpress_2026-10-05/`, `wp-content.zip` — còpies de seguretat; no tocar. (La carpeta del backup es diu així, no `01_backup_completo_...` com diu el full de ruta; no es reanomena.)
