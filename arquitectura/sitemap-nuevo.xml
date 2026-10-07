@@ -1,0 +1,1576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- PROPOSTA de sitemap de la web nova. No es definitiu: pendent de revisio i de decisions de Goncal. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+    <loc>https://valuatravel.com/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/qui-som/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/qui-som/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/quienes-somos/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/about-us/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/quienes-somos/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/qui-som/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/quienes-somos/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/about-us/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/about-us/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/qui-som/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/quienes-somos/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/about-us/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/testimonis/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/testimonis/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/testimonios/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/testimonials/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/testimonios/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/testimonis/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/testimonios/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/testimonials/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/testimonials/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/testimonis/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/testimonios/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/testimonials/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/contacte/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/contacte/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/contacto/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/contact/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/contacto/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/contacte/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/contacto/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/contact/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/contacte/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/contacto/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/contact/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/blog/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/blog/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/blog/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/blog/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/blog/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/blog/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/cataleg/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/cataleg/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/catalogo/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/catalogue/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/catalogo/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/cataleg/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/catalogo/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/catalogue/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/catalogue/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/cataleg/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/catalogo/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/catalogue/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/serveis/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/serveis/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/servicios/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/services/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/servicios/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/serveis/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/servicios/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/services/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/services/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/serveis/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/servicios/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/services/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/languages/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/languages/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/languages/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/languages/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/languages/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/languages/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/languages/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/languages/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/languages/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/languages/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/languages/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/languages/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/attitude/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/attitude/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/attitude/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/attitude/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/attitude/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/attitude/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/attitude/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/attitude/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/attitude/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/attitude/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/attitude/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/attitude/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/viatges-fi-curs/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/viatges-fi-curs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/viajes-fin-de-curso/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/end-of-year-trips/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/viajes-fin-de-curso/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/viatges-fi-curs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/viajes-fin-de-curso/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/end-of-year-trips/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/end-of-year-trips/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/viatges-fi-curs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/viajes-fin-de-curso/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/end-of-year-trips/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/sortides-1-dia/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/sortides-1-dia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/salidas-1-dia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/day-trips/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/salidas-1-dia/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/sortides-1-dia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/salidas-1-dia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/day-trips/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/day-trips/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/sortides-1-dia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/salidas-1-dia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/day-trips/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/any-escolar/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/any-escolar/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/ano-escolar/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/school-year/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/ano-escolar/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/any-escolar/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/ano-escolar/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/school-year/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/school-year/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/any-escolar/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/ano-escolar/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/school-year/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/summer-camps/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/summer-camps/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/summer-camps/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/summer-camps/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/summer-camps/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/summer-camps/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/summer-camps/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/summer-camps/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/summer-camps/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/summer-camps/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/summer-camps/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/summer-camps/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/ministays/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/ministays/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/ministays/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/ministays/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/ministays/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/ministays/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/ministays/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/ministays/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/ministays/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/ministays/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/ministays/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/ministays/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/setmana-blanca/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/setmana-blanca/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/semana-blanca/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/white-week/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/semana-blanca/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/setmana-blanca/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/semana-blanca/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/white-week/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/white-week/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/setmana-blanca/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/semana-blanca/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/white-week/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/setmana-verda/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/setmana-verda/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/semana-verde/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/green-week/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/semana-verde/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/setmana-verda/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/semana-verde/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/green-week/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/green-week/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/setmana-verda/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/semana-verde/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/green-week/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/setmana-blava/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/setmana-blava/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/semana-azul/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/blue-week/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/semana-azul/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/setmana-blava/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/semana-azul/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/blue-week/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/blue-week/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/setmana-blava/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/semana-azul/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/blue-week/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/setmanes-aventura/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/setmanes-aventura/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/semanas-aventura/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/adventure-weeks/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/semanas-aventura/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/setmanes-aventura/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/semanas-aventura/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/adventure-weeks/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/adventure-weeks/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/setmanes-aventura/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/semanas-aventura/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/adventure-weeks/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tours/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tours/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/viajes/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tours/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/viajes/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tours/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/viajes/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tours/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tours/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tours/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/viajes/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tours/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/avis-legal/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/avis-legal/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/aviso-legal/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/aviso-legal/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/avis-legal/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/aviso-legal/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/condicions-viatge/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/condicions-viatge/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/condiciones-viaje/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/condiciones-viaje/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/condicions-viatge/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/condiciones-viaje/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/politica-de-cookies/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/politica-de-cookies/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/politica-de-cookies/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/politica-de-cookies/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/politica-de-cookies/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/politica-de-cookies/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/adrenalina-port-aventura-world/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/adrenalina-port-aventura-world/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/afavorir-la-coneixenca-i-la-cohesio-del-grup-classe/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/afavorir-la-coneixenca-i-la-cohesio-del-grup-classe/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/apps-de-transport-mou-te-per-europa/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/apps-de-transport-mou-te-per-europa/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/avantatges-de-reservar-viatges-amb-antelacio/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/avantatges-de-reservar-viatges-amb-antelacio/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/deixem-les-pedres-tranquilles/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/deixem-les-pedres-tranquilles/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/documentacio-necessaria-viatjar-sense-nacionalitat-espanyola/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/documentacio-necessaria-viatjar-sense-nacionalitat-espanyola/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/documentacio-regne-unit/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/documentacio-regne-unit/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/endolls-del-mon/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/endolls-del-mon/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/equipatge-aerolinies/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/equipatge-aerolinies/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/escoles-confien-en-valua-travel/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/escoles-confien-en-valua-travel/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/eta-regne-unit/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/eta-regne-unit/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/exit-sorteig-fi-de-curs/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/exit-sorteig-fi-de-curs/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/inteligencia-artificial-viatge-escolar/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/inteligencia-artificial-viatge-escolar/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/les-12-apps-que-tajudaran-a-recorrer-el-mon/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/les-12-apps-que-tajudaran-a-recorrer-el-mon/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/maleta-perduda-al-viatge-de-final-de-curs/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/maleta-perduda-al-viatge-de-final-de-curs/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/necessito-visat-per-viatjar/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/necessito-visat-per-viatjar/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/organitzar-el-viatge-escolar/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/organitzar-el-viatge-escolar/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/passaports-del-mon-a-la-teva-butxaca/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/passaports-del-mon-a-la-teva-butxaca/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/perdua-documentacio-estranger/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/perdua-documentacio-estranger/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/quina-documentacio-necessito-per-viatjar/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/quina-documentacio-necessito-per-viatjar/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/significat-colors-passaports/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/significat-colors-passaports/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/targeta-sanitaria-viatges-europa/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/targeta-sanitaria-viatges-europa/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/transport-public-a-berlin/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/transport-public-a-berlin/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/transport-public-a-dublin/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/transport-public-a-dublin/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/transport-public-a-lisboa/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/transport-public-a-lisboa/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/transport-public-a-praga/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/transport-public-a-praga/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/transport-public-roma/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/transport-public-roma/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/turisme-sostenible/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/turisme-sostenible/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/vacances-a-peu/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/vacances-a-peu/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/valua-attitude-sota-la-lupa-de-ucla-anderson-el-que-lanalisi-confirma-i-el-que-ens-impulsa/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/valua-attitude-sota-la-lupa-de-ucla-anderson-el-que-lanalisi-confirma-i-el-que-ens-impulsa/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/viatges-escolars-a-catalunya-per-que-no-podem-deixar-que-desapareguin/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/viatges-escolars-a-catalunya-per-que-no-podem-deixar-que-desapareguin/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/blog/viatges-fi-curs/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/blog/viatges-fi-curs/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/destinacions/anglaterra/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/destinacions/anglaterra/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/destinacions/bournemouth/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/destinacions/bournemouth/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/destinacions/broadstairs/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/destinacions/broadstairs/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/destinacions/canada/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/destinacions/canada/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/destinacions/dublin/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/destinacions/dublin/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/destinacions/irlanda/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/destinacions/irlanda/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/destinacions/toronto/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/destinacions/toronto/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/cursos/angles-general/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/cursos/angles-general/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/allotjament/familia/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/allotjament/familia/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/allotjament/residencia/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/allotjament/residencia/"/>
+  </url>
+  <!-- Decisio Goncal 07/10/2026: pagina propia. PENDENT: contingut i slugs ES/EN -->
+  <url>
+    <loc>https://valuatravel.com/groups/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/groups/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/groups/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/groups/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/groups/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/groups/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/groups/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/groups/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/groups/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/groups/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/groups/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/groups/"/>
+  </url>
+  <!-- Decisio Goncal 07/10/2026: pagina propia. PENDENT: contingut i slugs ES/EN -->
+  <url>
+    <loc>https://valuatravel.com/i2eu/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/i2eu/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/i2eu/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/i2eu/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/i2eu/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/i2eu/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/i2eu/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/i2eu/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/i2eu/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/i2eu/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/i2eu/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/i2eu/"/>
+  </url>
+  <!-- Valua Tribes: linia nova (Goncal 07/10/2026). Existeix ja a /tribes/ en CA; ES/EN per traduir -->
+  <url>
+    <loc>https://valuatravel.com/tribes/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tribes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tribes/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tribes/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tribes/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tribes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tribes/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tribes/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tribes/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tribes/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tribes/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tribes/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/blog/cuando-organizar-un-viaje-escolar-no-se-convierte-en-una-carga-extra/</loc>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/blog/el-significado-de-los-colores-que-dice-tu-pasaporte-antes-de-abrirlo/</loc>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/blog/has-perdido-tu-documentacion-en-el-extranjero/</loc>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/blog/maleta-perdida-viaje-fin-curso/</loc>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/blog/por-que-cada-vez-mas-escuelas-confian-en-valua-travel-2/</loc>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/blog/valua-attitude-bajo-la-lupa-de-ucla-anderson-quien-confirma-el-analisis-y-quien-nos-impulsa/</loc>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/blog/viajes-escolares-a-cataluna-por-que-no-podemos-dejar-que-desaparezcan/</loc>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/amsterdam/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/amsterdam/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/amsterdam/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/amsterdam/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/amsterdam/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/amsterdam/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/amsterdam/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/amsterdam/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/amsterdam/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/amsterdam/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/amsterdam/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/amsterdam/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/andalusia/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/andalusia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/andalusia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/andalusia/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/andalusia/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/andalusia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/andalusia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/andalusia/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/andalusia/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/andalusia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/andalusia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/andalusia/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/andorra/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/andorra/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/andorra/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/andorra/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/andorra/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/andorra/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/andorra/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/andorra/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/andorra/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/andorra/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/andorra/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/andorra/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/anglaterra-programa-ascot/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/anglaterra-programa-ascot/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/anglaterra-programa-ascot/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/anglaterra-programa-ascot/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/anglaterra-programa-ascot/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/anglaterra-programa-ascot/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/anglaterra-programa-ascot/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/anglaterra-programa-ascot/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/anglaterra-programa-ascot/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/anglaterra-programa-ascot/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/anglaterra-programa-ascot/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/anglaterra-programa-ascot/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/anglaterra-programa-junior-broadstairs/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/anglaterra-programa-junior-broadstairs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/anglaterra-programa-junior-broadstairs/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/anglaterra-programa-junior-broadstairs/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/anglaterra-programa-junior-broadstairs/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/anglaterra-programa-junior-broadstairs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/anglaterra-programa-junior-broadstairs/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/anglaterra-programa-junior-broadstairs/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/anglaterra-programa-junior-broadstairs/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/anglaterra-programa-junior-broadstairs/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/anglaterra-programa-junior-broadstairs/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/anglaterra-programa-junior-broadstairs/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/asturies/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/asturies/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/asturies/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/asturies/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/asturies/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/asturies/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/asturies/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/asturies/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/asturies/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/asturies/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/asturies/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/asturies/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/bergueda/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/bergueda/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/bergueda/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/bergueda/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/bergueda/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/bergueda/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/bergueda/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/bergueda/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/bergueda/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/bergueda/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/bergueda/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/bergueda/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/berlin/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/berlin/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/berlin/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/berlin/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/berlin/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/berlin/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/berlin/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/berlin/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/berlin/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/berlin/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/berlin/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/berlin/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/bolonya-roma/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/bolonya-roma/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/bolonya-roma/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/bolonya-roma/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/bolonya-roma/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/bolonya-roma/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/bolonya-roma/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/bolonya-roma/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/bolonya-roma/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/bolonya-roma/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/bolonya-roma/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/bolonya-roma/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/brighton/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/brighton/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/brighton/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/brighton/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/brighton/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/brighton/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/brighton/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/brighton/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/brighton/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/brighton/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/brighton/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/brighton/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/brusselas/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/brusselas/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/brusselas/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/brusselas/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/brusselas/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/brusselas/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/brusselas/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/brusselas/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/brusselas/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/brusselas/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/brusselas/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/brusselas/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/canada-toronto/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/canada-toronto/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/canada-toronto/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/canada-toronto/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/canada-toronto/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/canada-toronto/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/canada-toronto/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/canada-toronto/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/canada-toronto/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/canada-toronto/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/canada-toronto/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/canada-toronto/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/cantabria/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/cantabria/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/cantabria/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/cantabria/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/cantabria/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/cantabria/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/cantabria/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/cantabria/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/cantabria/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/cantabria/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/cantabria/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/cantabria/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/canterbury-tour/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/canterbury-tour/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/canterbury-tour/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/canterbury-tour/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/canterbury-tour/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/canterbury-tour/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/canterbury-tour/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/canterbury-tour/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/canterbury-tour/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/canterbury-tour/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/canterbury-tour/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/canterbury-tour/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/cerdanya-bergueda/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/cerdanya-bergueda/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/cerdanya-bergueda/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/cerdanya-bergueda/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/cerdanya-bergueda/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/cerdanya-bergueda/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/cerdanya-bergueda/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/cerdanya-bergueda/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/cerdanya-bergueda/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/cerdanya-bergueda/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/cerdanya-bergueda/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/cerdanya-bergueda/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/cerdanya/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/cerdanya/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/cerdanya/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/cerdanya/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/cerdanya/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/cerdanya/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/cerdanya/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/cerdanya/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/cerdanya/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/cerdanya/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/cerdanya/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/cerdanya/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/curs-angles-estranger/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/curs-angles-estranger/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/curs-angles-estranger/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/curs-angles-estranger/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/curs-angles-estranger/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/curs-angles-estranger/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/curs-angles-estranger/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/curs-angles-estranger/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/curs-angles-estranger/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/curs-angles-estranger/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/curs-angles-estranger/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/curs-angles-estranger/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/delta-de-lebre/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/delta-de-lebre/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/delta-de-lebre/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/delta-de-lebre/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/delta-de-lebre/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/delta-de-lebre/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/delta-de-lebre/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/delta-de-lebre/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/delta-de-lebre/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/delta-de-lebre/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/delta-de-lebre/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/delta-de-lebre/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/dublin/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/dublin/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/dublin/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/dublin/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/dublin/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/dublin/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/dublin/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/dublin/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/dublin/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/dublin/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/dublin/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/dublin/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/dubrovnik/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/dubrovnik/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/dubrovnik/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/dubrovnik/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/dubrovnik/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/dubrovnik/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/dubrovnik/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/dubrovnik/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/dubrovnik/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/dubrovnik/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/dubrovnik/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/dubrovnik/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/edimburg/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/edimburg/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/edimburg/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/edimburg/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/edimburg/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/edimburg/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/edimburg/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/edimburg/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/edimburg/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/edimburg/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/edimburg/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/edimburg/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/eslovenia/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/eslovenia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/eslovenia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/eslovenia/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/eslovenia/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/eslovenia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/eslovenia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/eslovenia/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/eslovenia/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/eslovenia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/eslovenia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/eslovenia/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/euskadi-cantabria/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/euskadi-cantabria/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/euskadi-cantabria/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/euskadi-cantabria/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/euskadi-cantabria/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/euskadi-cantabria/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/euskadi-cantabria/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/euskadi-cantabria/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/euskadi-cantabria/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/euskadi-cantabria/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/euskadi-cantabria/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/euskadi-cantabria/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/euskadi/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/euskadi/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/euskadi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/euskadi/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/euskadi/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/euskadi/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/euskadi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/euskadi/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/euskadi/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/euskadi/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/euskadi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/euskadi/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/florencia-roma/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/florencia-roma/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/florencia-roma/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/florencia-roma/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/florencia-roma/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/florencia-roma/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/florencia-roma/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/florencia-roma/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/florencia-roma/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/florencia-roma/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/florencia-roma/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/florencia-roma/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/florencia-venecia/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/florencia-venecia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/florencia-venecia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/florencia-venecia/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/florencia-venecia/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/florencia-venecia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/florencia-venecia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/florencia-venecia/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/florencia-venecia/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/florencia-venecia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/florencia-venecia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/florencia-venecia/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/font-romeu/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/font-romeu/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/font-romeu/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/font-romeu/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/font-romeu/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/font-romeu/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/font-romeu/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/font-romeu/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/font-romeu/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/font-romeu/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/font-romeu/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/font-romeu/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/irlanda-programa-junior-dublin-en-residencia/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/irlanda-programa-junior-dublin-en-residencia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/irlanda-programa-junior-dublin-en-residencia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/irlanda-programa-junior-dublin-en-residencia/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/irlanda-programa-junior-dublin-en-residencia/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/irlanda-programa-junior-dublin-en-residencia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/irlanda-programa-junior-dublin-en-residencia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/irlanda-programa-junior-dublin-en-residencia/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/irlanda-programa-junior-dublin-en-residencia/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/irlanda-programa-junior-dublin-en-residencia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/irlanda-programa-junior-dublin-en-residencia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/irlanda-programa-junior-dublin-en-residencia/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/lisboa-porto/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/lisboa-porto/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/lisboa-porto/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/lisboa-porto/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/lisboa-porto/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/lisboa-porto/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/lisboa-porto/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/lisboa-porto/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/lisboa-porto/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/lisboa-porto/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/lisboa-porto/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/lisboa-porto/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/lisboa/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/lisboa/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/lisboa/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/lisboa/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/lisboa/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/lisboa/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/lisboa/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/lisboa/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/lisboa/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/lisboa/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/lisboa/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/lisboa/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/londres/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/londres/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/londres/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/londres/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/londres/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/londres/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/londres/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/londres/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/londres/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/londres/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/londres/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/londres/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/madrid/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/madrid/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/madrid/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/madrid/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/madrid/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/madrid/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/madrid/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/madrid/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/madrid/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/madrid/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/madrid/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/madrid/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/malgrat-de-mar/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/malgrat-de-mar/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/malgrat-de-mar/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/malgrat-de-mar/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/malgrat-de-mar/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/malgrat-de-mar/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/malgrat-de-mar/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/malgrat-de-mar/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/malgrat-de-mar/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/malgrat-de-mar/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/malgrat-de-mar/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/malgrat-de-mar/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/mallorca/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/mallorca/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/mallorca/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/mallorca/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/mallorca/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/mallorca/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/mallorca/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/mallorca/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/mallorca/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/mallorca/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/mallorca/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/mallorca/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/maresme/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/maresme/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/maresme/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/maresme/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/maresme/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/maresme/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/maresme/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/maresme/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/maresme/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/maresme/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/maresme/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/maresme/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/masella/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/masella/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/masella/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/masella/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/masella/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/masella/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/masella/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/masella/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/masella/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/masella/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/masella/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/masella/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/menorca/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/menorca/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/menorca/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/menorca/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/menorca/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/menorca/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/menorca/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/menorca/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/menorca/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/menorca/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/menorca/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/menorca/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/napols/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/napols/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/napols/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/napols/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/napols/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/napols/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/napols/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/napols/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/napols/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/napols/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/napols/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/napols/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/paris/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/paris/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/paris/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/paris/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/paris/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/paris/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/paris/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/paris/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/paris/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/paris/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/paris/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/paris/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/praga-berlin/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/praga-berlin/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/praga-berlin/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/praga-berlin/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/praga-berlin/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/praga-berlin/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/praga-berlin/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/praga-berlin/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/praga-berlin/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/praga-berlin/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/praga-berlin/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/praga-berlin/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/puigcerda-esquiada-escolar/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/puigcerda-esquiada-escolar/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/puigcerda-esquiada-escolar/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/puigcerda-esquiada-escolar/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/puigcerda-esquiada-escolar/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/puigcerda-esquiada-escolar/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/puigcerda-esquiada-escolar/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/puigcerda-esquiada-escolar/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/puigcerda-esquiada-escolar/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/puigcerda-esquiada-escolar/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/puigcerda-esquiada-escolar/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/puigcerda-esquiada-escolar/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/puigcerda/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/puigcerda/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/puigcerda/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/puigcerda/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/puigcerda/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/puigcerda/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/puigcerda/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/puigcerda/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/puigcerda/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/puigcerda/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/puigcerda/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/puigcerda/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/roma-florencia/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/roma-florencia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/roma-florencia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/roma-florencia/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/roma-florencia/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/roma-florencia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/roma-florencia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/roma-florencia/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/roma-florencia/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/roma-florencia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/roma-florencia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/roma-florencia/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/roma-napols/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/roma-napols/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/roma-napols/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/roma-napols/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/roma-napols/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/roma-napols/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/roma-napols/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/roma-napols/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/roma-napols/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/roma-napols/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/roma-napols/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/roma-napols/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/roma/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/roma/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/roma/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/roma/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/roma/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/roma/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/roma/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/roma/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/roma/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/roma/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/roma/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/roma/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/selva-negra-baviera/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/selva-negra-baviera/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/selva-negra-baviera/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/selva-negra-baviera/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/selva-negra-baviera/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/selva-negra-baviera/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/selva-negra-baviera/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/selva-negra-baviera/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/selva-negra-baviera/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/selva-negra-baviera/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/selva-negra-baviera/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/selva-negra-baviera/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/sud-de-franca/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/sud-de-franca/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/sud-de-franca/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/sud-de-franca/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/sud-de-franca/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/sud-de-franca/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/sud-de-franca/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/sud-de-franca/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/sud-de-franca/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/sud-de-franca/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/sud-de-franca/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/sud-de-franca/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/toscana/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/toscana/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/toscana/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/toscana/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/toscana/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/toscana/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/toscana/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/toscana/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/toscana/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/toscana/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/toscana/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/toscana/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/valencia/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/valencia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/valencia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/valencia/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/valencia/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/valencia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/valencia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/valencia/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/valencia/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/valencia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/valencia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/valencia/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/vall-de-pineta/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/vall-de-pineta/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/vall-de-pineta/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/vall-de-pineta/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/vall-de-pineta/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/vall-de-pineta/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/vall-de-pineta/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/vall-de-pineta/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/vall-de-pineta/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/vall-de-pineta/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/vall-de-pineta/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/vall-de-pineta/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/venecia-florencia-roma/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/venecia-florencia-roma/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/venecia-florencia-roma/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/venecia-florencia-roma/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/venecia-florencia-roma/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/venecia-florencia-roma/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/venecia-florencia-roma/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/venecia-florencia-roma/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/venecia-florencia-roma/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/venecia-florencia-roma/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/venecia-florencia-roma/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/venecia-florencia-roma/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/venecia-florencia/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/venecia-florencia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/venecia-florencia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/venecia-florencia/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/venecia-florencia/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/venecia-florencia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/venecia-florencia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/venecia-florencia/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/venecia-florencia/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/venecia-florencia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/venecia-florencia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/venecia-florencia/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/tour/venecia/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/venecia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/venecia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/venecia/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/es/tour/venecia/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/venecia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/venecia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/venecia/"/>
+  </url>
+  <url>
+    <loc>https://valuatravel.com/en/tour/venecia/</loc>
+    <xhtml:link rel="alternate" hreflang="ca" href="https://valuatravel.com/tour/venecia/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://valuatravel.com/es/tour/venecia/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valuatravel.com/en/tour/venecia/"/>
+  </url>
+</urlset>
